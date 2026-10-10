@@ -1,0 +1,44 @@
+{
+  "name": "Oblivyx",
+  "identifier": "com.zay.oblivyx.catalog",
+  "subtitle": "Experimental applications for experimental people",
+  "description": "Zay's app collection. Add this source once in Feather, then refresh it for new apps and versions.",
+  "website": "https://github.com/Zayk47u/Oblivyx",
+  "iconURL": "https://avatars.githubusercontent.com/u/164645480?v=4",
+  "apps": [
+    {
+      "name": "Sample Size",
+      "bundleIdentifier": "com.zay.samplesizeclothing",
+      "developerName": "Zay",
+      "subtitle": "Your clothing taste and design workspace",
+      "localizedDescription": "An early offline clothing workspace with personal and brand taste lanes, swiping, saved collections, design reviews, and export. Includes 113 bundled references and design images. Live shopping feeds and automatic website sync are still in development. Unsigned: sign and install with your own Feather certificate. Requires iOS 16.4 or later.",
+      "tintColor": "917A62",
+      "iconURL": "https://raw.githubusercontent.com/Zayk47u/Oblivyx/main/assets/icons/sample-size.png",
+      "beta": true,
+      "appPermissions": {
+        "privacy": [
+          {
+            "name": "NSFaceIDUsageDescription",
+            "usageDescription": "Allow SampleSize to access your Face ID biometric data."
+          }
+        ]
+      },
+      "versions": [
+        {
+          "version": "0.1.0",
+          "buildVersion": "1",
+          "date": "2026-10-10T23:07:11Z",
+          "size": 29095579,
+          "minOSVersion": "16.4",
+          "localizedDescription": "First unsigned preview. Offline clothing references, taste lanes, collections, reviews, and export. Not yet tested on an iPhone.",
+          "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/sample-size-v0.1.0-b1/Sample-Size-v0.1.0-unsigned.ipa"
+        }
+      ],
+      "version": "0.1.0",
+      "versionDate": "2026-10-10T23:07:11Z",
+      "size": 29095579,
+      "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/sample-size-v0.1.0-b1/Sample-Size-v0.1.0-unsigned.ipa"
+    }
+  ],
+  "news": []
+}
