@@ -1,0 +1,32 @@
+{
+  "slug": "sample-size",
+  "name": "Sample Size",
+  "bundleIdentifier": "com.zay.samplesizeclothing",
+  "developerName": "Zay",
+  "subtitle": "Your clothing taste and design workspace",
+  "localizedDescription": "An early offline clothing workspace with personal and brand taste lanes, swiping, saved collections, design reviews, and export. Includes 113 bundled references and design images. Live shopping feeds and automatic website sync are still in development. Unsigned: sign and install with your own Feather certificate. Requires iOS 16.4 or later.",
+  "iconPath": "assets/icons/sample-size.png",
+  "tintColor": "917A62",
+  "beta": true,
+  "appPermissions": {
+    "privacy": [
+      {
+        "name": "NSFaceIDUsageDescription",
+        "usageDescription": "Allow SampleSize to access your Face ID biometric data."
+      }
+    ]
+  },
+  "versions": [
+    {
+      "version": "0.1.0",
+      "buildVersion": "1",
+      "date": "2026-10-10T23:07:11Z",
+      "minOSVersion": "16.4",
+      "size": 29095579,
+      "sha256": "85cd6056a348ff9e09f0e3cb12f5cd2a566ff9765e2152b29de0f7f390f305f5",
+      "fileName": "Sample-Size-v0.1.0-unsigned.ipa",
+      "sourceURL": "https://expo.dev/artifacts/eas/IstgkyZPijd7P_B_hXke9aY7DWFimK9bLQ1Ziw-RaGs.ipa",
+      "localizedDescription": "First unsigned preview. Offline clothing references, taste lanes, collections, reviews, and export. Not yet tested on an iPhone."
+    }
+  ]
+}
