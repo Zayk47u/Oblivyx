@@ -1,0 +1,28 @@
+name: Refresh clothing discoveries
+on:
+  schedule:
+    - cron: '17 8 * * *'
+  workflow_dispatch:
+  push:
+    paths: ['scripts/refresh_discoveries.py', '.github/workflows/refresh-discoveries.yml']
+permissions:
+  contents: write
+concurrency:
+  group: clothing-discoveries
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5962d4e9b4ee1ce9a7de680e0ea9b7c1ad8cc
+      - run: python3 scripts/refresh_discoveries.py
+      - name: Publish verified feed
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add feeds/sample-size.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh clothing discoveries'
+            git pull --rebase
+            git push
+          fi
