@@ -94,12 +94,10 @@ def run(*args):
 
 
 def release_for(tag):
-    p = subprocess.run(["gh", "api", f"repos/{REPOSITORY}/releases/tags/{tag}"], text=True, capture_output=True)
-    if p.returncode:
-        if "HTTP 404" in p.stderr:
-            return None
-        raise RuntimeError(p.stderr)
-    return json.loads(p.stdout)
+    # The by-tag REST endpoint excludes drafts. The authenticated collection
+    # includes them, allowing safe retries after an upload but before publishing.
+    pages = json.loads(run("gh", "api", f"repos/{REPOSITORY}/releases?per_page=100", "--paginate", "--slurp"))
+    return next((release for page in pages for release in page if release["tag_name"] == tag), None)
 
 
 def check_asset(asset, version):

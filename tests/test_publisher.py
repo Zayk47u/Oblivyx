@@ -44,6 +44,17 @@ class PublisherTests(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "refusing to overwrite"):
             p.check_asset(asset, self.version)
 
+    def test_draft_lookup_and_retry_preserve_uploaded_ipa(self):
+        tag = p.tag_for(self.app, self.version)
+        asset = {"name": self.version["fileName"], "state": "uploaded", "size": self.version["size"], "digest": "sha256:" + self.version["sha256"]}
+        draft = {"tag_name": tag, "draft": True, "assets": [asset]}
+        with patch.object(p, "run", return_value=json.dumps([[{"tag_name": "other"}], [draft]])) as run:
+            self.assertEqual(p.release_for(tag), draft)
+            self.assertIn("--paginate", run.call_args.args)
+        with patch.object(p, "release_for", return_value=draft), patch.object(p, "run") as run:
+            p.publish_version(self.app, self.version, Path("unused"))
+            run.assert_called_once_with("gh", "release", "edit", tag, "--repo", p.REPOSITORY, "--draft=false", "--latest=false")
+
     def test_wrong_app_rejected_even_with_valid_archive_checksum(self):
         with tempfile.TemporaryDirectory() as directory:
             path = Path(directory) / "wrong.ipa"
