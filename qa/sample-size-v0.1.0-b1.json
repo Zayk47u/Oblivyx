@@ -1,0 +1,22 @@
+{
+  "repository": "Zayk47u/Oblivyx",
+  "status": "verified-public",
+  "sourceURL": "https://raw.githubusercontent.com/Zayk47u/Oblivyx/main/app-repo.json",
+  "workflowRunId": 38095831404,
+  "workflowURL": "https://github.com/Zayk47u/Oblivyx/actions/runs/38095831404",
+  "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/sample-size-v0.1.0-b1/Sample-Size-v0.1.0-unsigned.ipa",
+  "sha256": "85cd6056a348ff9e09f0e3cb12f5cd2a566ff9765e2152b29de0f7f390f305f5",
+  "bytes": 29095579,
+  "checks": [
+    "anonymous source retrieval",
+    "Feather model-compatible fields and legacy values",
+    "anonymous release download equals original IPA",
+    "IPA bundle/version/build/minimum iOS and archive verification",
+    "anonymous icon retrieval equals original icon"
+  ],
+  "deviceRuntimeTested": false,
+  "catalogCommit": "a1aaf64f25cfabb924d4594d33386352448854d6",
+  "publisherTestsPassed": 6,
+  "recordedAt": "2026-10-10T23:41:41.692642+00:00"
+}
+
