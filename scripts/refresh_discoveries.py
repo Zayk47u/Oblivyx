@@ -10,6 +10,7 @@ def transform(products, slug, brand, base, observed):
         title=str(p.get('title','')).strip()
         description=html.unescape(re.sub('<[^>]+>',' ',p.get('body_html') or ''))
         text=(title+' '+description+' '+str(p.get('product_type',''))).lower()
+        if re.search(r'\bwomen|\bwomens|\bfemale', ' '.join(p.get('tags',[])).lower()): continue
         if not title or not p.get('handle') or not p.get('images') or not any(v.get('available') for v in p.get('variants',[])): continue
         if re.search(r'scorpion|moth|checkered|chinese dragon',text): continue
         tags=[k for k,v in RULES.items() if re.search(v,text)]

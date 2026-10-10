@@ -14,7 +14,7 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@11d5962d4e9b4ee1ce9a7de680e0ea9b7c1ad8cc
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
       - run: python3 scripts/refresh_discoveries.py
       - name: Publish verified feed
         run: |
