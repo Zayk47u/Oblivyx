@@ -10,9 +10,9 @@
       "name": "Sample Size",
       "bundleIdentifier": "com.zay.samplesizeclothing",
       "developerName": "Zay",
-      "subtitle": "Your clothing taste and design workspace",
-      "localizedDescription": "An early offline clothing workspace with personal and brand taste lanes, swiping, saved collections, design reviews, and export. Includes 113 bundled references and design images. Live shopping feeds and automatic website sync are still in development. Unsigned: sign and install with your own Feather certificate. Requires iOS 16.4 or later.",
-      "tintColor": "917A62",
+      "subtitle": "The outside edit. Your taste, discovered.",
+      "localizedDescription": "Black/silver clothing discovery and design workspace. Browse fresh products sourced from official Jaded London, Affliction and Ed Hardy stores, with a daily refreshed feed, personal and brand taste lanes, saved collections, and exact-version design reviews. Your original references stay in a separate archive. Product photos require internet; verify stock, price and sizing at the store. Feedback stays on your phone until exported. Unsigned: sign and install with your own Feather certificate. Requires iOS16.4 or later.",
+      "tintColor": "D4D4DC",
       "iconURL": "https://raw.githubusercontent.com/Zayk47u/Oblivyx/main/assets/icons/sample-size.png",
       "beta": true,
       "appPermissions": {
@@ -25,6 +25,15 @@
       },
       "versions": [
         {
+          "version": "0.2.0",
+          "buildVersion": "2",
+          "date": "2026-10-11T00:05:46.835Z",
+          "size": 29231677,
+          "minOSVersion": "16.4",
+          "localizedDescription": "New black/silver editorial UI and official-store discoveries. Daily feed refresh, manual refresh, retained saved discoveries and separate Original archive. Browser QA passed17 checks; native IPA integrity verified. iPhone installation/runtime still needs device testing.",
+          "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/sample-size-v0.2.0-b2/Sample-Size-v0.2.0-unsigned.ipa"
+        },
+        {
           "version": "0.1.0",
           "buildVersion": "1",
           "date": "2026-10-10T23:07:11Z",
@@ -34,10 +43,10 @@
           "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/sample-size-v0.1.0-b1/Sample-Size-v0.1.0-unsigned.ipa"
         }
       ],
-      "version": "0.1.0",
-      "versionDate": "2026-10-10T23:07:11Z",
-      "size": 29095579,
-      "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/sample-size-v0.1.0-b1/Sample-Size-v0.1.0-unsigned.ipa"
+      "version": "0.2.0",
+      "versionDate": "2026-10-11T00:05:46.835Z",
+      "size": 29231677,
+      "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/sample-size-v0.2.0-b2/Sample-Size-v0.2.0-unsigned.ipa"
     }
   ],
   "news": []
