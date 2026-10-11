@@ -1,0 +1,107 @@
+{
+  "ipa": {
+    "verified_ui_fonts": 2,
+    "build_id": "2a7a99a9-68b9-4a59-8c10-564bdc8cf96f",
+    "filename": "Sample-Size-v0.2.0-unsigned.ipa",
+    "sha256": "8f29ef226c7c8faa8d39053a6342a9eadec9973638049fee8b42235f6fa0eca5",
+    "bytes": 29231677,
+    "bundle_identifier": "com.zay.samplesizeclothing",
+    "version": "0.2.0",
+    "build_number": "2",
+    "minimum_ios": "16.4",
+    "platform": "physical iOS",
+    "architecture": "arm64",
+    "signing": "unsigned; owner installer signs",
+    "embedded_bundle_bytes": 2800744,
+    "verified_reference_and_design_images": 113,
+    "zip_integrity": "passed",
+    "physical_device_runtime_test": "not run"
+  },
+  "runtime": {
+    "testedAt": "2026-10-11T00:00:15.487Z",
+    "platform": "Chromium / React Native Web",
+    "artifact": {
+      "version": "0.2.0",
+      "bundles": [
+        {
+          "name": "entry-07602c65e22db42f08107acad7117b16.js",
+          "sha256": "eff0aecc59461fb4810b7d2a0706cfdc63873ae943508a63277fa31b0cc7778b"
+        }
+      ]
+    },
+    "checks": [
+      "Anonymous published live feed contains 237 official store discoveries, distinct from original IDs",
+      "Initial Discover displays a real externally sourced product with loaded image",
+      "Blackletter and condensed fonts loaded",
+      "Fixed Save/Pass/Later controls fit 390x844",
+      "Saved product metadata resolves in personal collection",
+      "Saved feedback and product persist after reload",
+      "Undo restores exact previous fresh product",
+      "Brand lane retains independent choices; Later and Pass each record exact product",
+      "Brand Later collection includes chosen product",
+      "Original archive keeps all 42 historical references separate",
+      "Controlled refresh replaces current edit with another actual external product",
+      "Previously saved product retained when absent from refreshed current edit",
+      "Retained historical discovery metadata survives cache reload",
+      "Offline refresh states failure and keeps cached external edit",
+      "Save/Pass/Later and navigation remain visible at 375x667",
+      "No horizontal document overflow at narrow mobile viewport",
+      "No uncaught browser runtime errors"
+    ],
+    "errors": [],
+    "transport": "Local exported bundle. Anonymous pinned main-commit raw GitHub feed and Shopify image bytes fetched by curl HTTPS then transparently fulfilled into Chromium; no substituted image bytes. Changed-feed and outage scenarios explicitly controlled.",
+    "limitations": [
+      "No iPhone device or native signing/install tested",
+      "Native haptics, sharing and touch gestures not tested"
+    ],
+    "publicFeedVerification": {
+      "pinnedUrl": "https://raw.githubusercontent.com/Zayk47u/Oblivyx/b6d6a35d6e3d3628a242b542d8df372e25f29192/feeds/sample-size.json",
+      "pinnedItemCount": 237,
+      "pinnedCheckedAt": "2026-10-10T23:57:40.838935+00:00",
+      "mainItemCount": 300,
+      "mainCheckedAt": "2026-10-10T23:53:08.629686+00:00",
+      "cacheLag": true
+    },
+    "liveFeed": {
+      "checkedAt": "2026-10-10T23:57:40.838935+00:00",
+      "itemCount": 237,
+      "sourceCounts": [
+        {
+          "brand": "Jaded London",
+          "status": "ok",
+          "checkedAt": "2026-10-10T23:57:40.838935+00:00",
+          "count": 73
+        },
+        {
+          "brand": "Affliction",
+          "status": "ok",
+          "checkedAt": "2026-10-10T23:57:40.838935+00:00",
+          "count": 87
+        },
+        {
+          "brand": "Ed Hardy",
+          "status": "ok",
+          "checkedAt": "2026-10-10T23:57:40.838935+00:00",
+          "count": 77
+        }
+      ]
+    },
+    "feedRequests": 5,
+    "productImagesFetched": 4,
+    "status": "passed"
+  },
+  "sourceCommit": "09182ec",
+  "unitTests": 19,
+  "lint": "passed",
+  "typecheck": "passed",
+  "nativeExport": "passed",
+  "discoveryWorkflow": {
+    "run": 38096788328,
+    "status": "success"
+  },
+  "publicFeedVerification": {
+    "count": 237,
+    "checkedAt": "2026-10-10T23:57:40.838935+00:00",
+    "anonymousMain": "verified after cache propagation"
+  }
+}

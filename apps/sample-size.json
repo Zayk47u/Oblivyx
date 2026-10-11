@@ -3,10 +3,10 @@
   "name": "Sample Size",
   "bundleIdentifier": "com.zay.samplesizeclothing",
   "developerName": "Zay",
-  "subtitle": "Your clothing taste and design workspace",
-  "localizedDescription": "An early offline clothing workspace with personal and brand taste lanes, swiping, saved collections, design reviews, and export. Includes 113 bundled references and design images. Live shopping feeds and automatic website sync are still in development. Unsigned: sign and install with your own Feather certificate. Requires iOS 16.4 or later.",
+  "subtitle": "The outside edit. Your taste, discovered.",
+  "localizedDescription": "Black/silver clothing discovery and design workspace. Browse fresh products sourced from official Jaded London, Affliction and Ed Hardy stores, with a daily refreshed feed, personal and brand taste lanes, saved collections, and exact-version design reviews. Your original references stay in a separate archive. Product photos require internet; verify stock, price and sizing at the store. Feedback stays on your phone until exported. Unsigned: sign and install with your own Feather certificate. Requires iOS16.4 or later.",
   "iconPath": "assets/icons/sample-size.png",
-  "tintColor": "917A62",
+  "tintColor": "D4D4DC",
   "beta": true,
   "appPermissions": {
     "privacy": [
@@ -17,6 +17,17 @@
     ]
   },
   "versions": [
+    {
+      "version": "0.2.0",
+      "buildVersion": "2",
+      "date": "2026-10-11T00:05:46.835Z",
+      "minOSVersion": "16.4",
+      "size": 29231677,
+      "sha256": "8f29ef226c7c8faa8d39053a6342a9eadec9973638049fee8b42235f6fa0eca5",
+      "fileName": "Sample-Size-v0.2.0-unsigned.ipa",
+      "sourceURL": "https://expo.dev/artifacts/eas/GkXJRquXtlGz-clL2VHQ9kHacvsXZU-qs6XHGXXSblI.ipa",
+      "localizedDescription": "New black/silver editorial UI and official-store discoveries. Daily feed refresh, manual refresh, retained saved discoveries and separate Original archive. Browser QA passed17 checks; native IPA integrity verified. iPhone installation/runtime still needs device testing."
+    },
     {
       "version": "0.1.0",
       "buildVersion": "1",
