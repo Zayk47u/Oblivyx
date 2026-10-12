@@ -7,6 +7,32 @@
   "iconURL": "https://avatars.githubusercontent.com/u/164645480?v=4",
   "apps": [
     {
+      "name": "CONTINUUM",
+      "bundleIdentifier": "com.zayk47u.continuum",
+      "developerName": "Zay",
+      "subtitle": "Work, life, and a little chaos.",
+      "localizedDescription": "A local-only native space for exploring preferences and creative ideas. Quick Calibrate supports adaptive questions, skipping, answer editing, and explicit draft review. Spark offers authored brainstorming prompts, history, and favorites. Drafts and preferences stay in unencrypted local app storage, separate from authoritative Continuity records. No personal data is connected. Deep Dive and AI brainstorming are not yet available. Unsigned for Feather; iOS 16.4 or later.",
+      "tintColor": "C0EFCB",
+      "iconURL": "https://raw.githubusercontent.com/Zayk47u/Oblivyx/main/assets/icons/continuum.png",
+      "beta": true,
+      "appPermissions": {},
+      "versions": [
+        {
+          "version": "0.1.0",
+          "buildVersion": "1",
+          "date": "2026-10-12T04:41:16.545Z",
+          "size": 7671815,
+          "minOSVersion": "16.4",
+          "localizedDescription": "First native iOS preview: five screens, persistent Quick Calibrate drafts, adaptive follow-ups, review/edit/skip, and Spark history/favorites. 19 native tests, 31 existing tests, TypeScript, Expo Doctor, Release device/simulator builds, and two iOS simulator flows passed. Physical iPhone installation, signing, haptics, and VoiceOver remain untested. No live Continuity or AI connection.",
+          "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/continuum-v0.1.0-b1/CONTINUUM-v0.1.0-unsigned.ipa"
+        }
+      ],
+      "version": "0.1.0",
+      "versionDate": "2026-10-12T04:41:16.545Z",
+      "size": 7671815,
+      "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/continuum-v0.1.0-b1/CONTINUUM-v0.1.0-unsigned.ipa"
+    },
+    {
       "name": "Sample Size",
       "bundleIdentifier": "com.zay.samplesizeclothing",
       "developerName": "Zay",
