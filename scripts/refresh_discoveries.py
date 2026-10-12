@@ -14,7 +14,8 @@ def transform(products, slug, brand, base, observed):
         if not title or not p.get('handle') or not p.get('images') or not any(v.get('available') for v in p.get('variants',[])): continue
         tags=[k for k,v in RULES.items() if re.search(v,text)]
         if not tags: continue
-        category='Denim' if 'denim' in tags else 'Bottoms' if re.search(r'pant|short|skirt|jogger',text) else 'Outerwear' if re.search(r'jacket|hoodie|cardigan|coat',title.lower()) else 'Tops'
+        garment_type=(title+' '+str(p.get('product_type',''))).lower()
+        category='Denim' if re.search(r'denim|jean',garment_type) else 'Bottoms' if re.search(r'pant|short|skirt|jogger',garment_type) else 'Outerwear' if re.search(r'jacket|hoodie|cardigan|coat',title.lower()) else 'Tops'
         photos=list(dict.fromkeys(i.get('src','') for i in p['images'] if i.get('src','').startswith('https://cdn.shopify.com/')))[:20]
         image=photos[0] if photos else ''
         if not image.startswith('https://'): continue
