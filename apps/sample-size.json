@@ -3,8 +3,8 @@
   "name": "Sample Size",
   "bundleIdentifier": "com.zay.samplesizeclothing",
   "developerName": "Zay",
-  "subtitle": "The outside edit. Your taste, discovered.",
-  "localizedDescription": "Black/silver clothing discovery and review workspace. Fresh official-store products, personal and brand taste lanes, saved collections, focused design reviews, multi-file references and casting profiles. Quarter-point ratings, Keep/Rework/Later/Scrap, weighted assessments, threaded notes and decision history. In-app arrival inbox; no background push or cloud sync. Feedback and added files stay on your device; JSON exports contain file identities, not attachment bytes. Unsigned: sign and install with your own Feather certificate. Requires iOS16.4 or later.",
+  "subtitle": "References and decisions for your clothing brand.",
+  "localizedDescription": "Image-first clothing-brand research and review. Multi-photo galleries, five built-in catalogs, custom source controls, separate taste lanes, named collections, fractional ratings, exact-image notes, graphic criteria, revision comparison and multi-file references/casting. Recoverable drafts and complete attachment backups. Tag-based ranking; no visual AI training, live site sync or background push. Grailed/Depop are links/manual imports, not connected accounts. Unsigned for Feather signing. Requires iOS16.4 or later.",
   "iconPath": "assets/icons/sample-size.png",
   "tintColor": "D4D4DC",
   "beta": true,
@@ -17,6 +17,17 @@
     ]
   },
   "versions": [
+    {
+      "version": "0.4.0",
+      "buildVersion": "4",
+      "date": "2026-10-12T03:47:03Z",
+      "minOSVersion": "16.4",
+      "size": 85456221,
+      "sha256": "39f820ed0b64054fcbb46328da6b0ca275443f189fe30be955658203219c1506",
+      "fileName": "Sample-Size-v0.4.0-unsigned.ipa",
+      "sourceURL": "https://expo.dev/artifacts/eas/9f0JifZ4IpxU2NafX4FN1ywu0tQJJP_fupKGZEo8Aw8.ipa",
+      "localizedDescription": "Image-first navigation, photo galleries and zoom, five verified public catalogs, add/pause sources, named collections, exact-image Keep/Change notes, graphic scoring, revision comparison, recovered drafts and complete file backups. 34 app tests, mobile browser checks and unsigned arm64 IPA verification passed. Native iPhone runtime untested. Live site/Dot sync, marketplace integrations and visual-model learning remain pending."
+    },
     {
       "version": "0.3.0",
       "buildVersion": "3",
