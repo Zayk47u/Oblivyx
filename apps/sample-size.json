@@ -4,7 +4,7 @@
   "bundleIdentifier": "com.zay.samplesizeclothing",
   "developerName": "Zay",
   "subtitle": "References and decisions for your clothing brand.",
-  "localizedDescription": "Image-first clothing-brand research and review. Multi-photo galleries, five built-in catalogs, custom source controls, separate taste lanes, named collections, fractional ratings, exact-image notes, graphic criteria, revision comparison and multi-file references/casting. Recoverable drafts and complete attachment backups. Tag-based ranking; no visual AI training, live site sync or background push. Grailed/Depop are links/manual imports, not connected accounts. Unsigned for Feather signing. Requires iOS16.4 or later.",
+  "localizedDescription": "Clothing-brand research and review with private Brand Review site sync for design ratings, written feedback, decisions, reasons and weighted criteria. Download current designs and reference photos. Multi-photo galleries, fractional scores, custom discovery sources and recoverable local drafts. Collections, image notes, casting boards and discovery taste remain local. No visual AI training or connected marketplace accounts. Unsigned for Feather; iOS 16.4 or later.",
   "iconPath": "assets/icons/sample-size.png",
   "tintColor": "D4D4DC",
   "beta": true,
@@ -17,6 +17,17 @@
     ]
   },
   "versions": [
+    {
+      "version": "0.5.0",
+      "buildVersion": "5",
+      "date": "2026-10-12T04:55:44.828Z",
+      "minOSVersion": "16.4",
+      "size": 85541892,
+      "sha256": "3fbfe8a05855242530f23c1864a82b53ee839cd53b57cab1a35cba24e688a160",
+      "fileName": "Sample-Size-v0.5.0-unsigned.ipa",
+      "sourceURL": "https://expo.dev/artifacts/eas/yhVwPdIjttewT-aDU8ojMV-dkWlJkTQxuzU-kTMBg2M.ipa",
+      "localizedDescription": "Adds authenticated design-review sync with your existing Brand Review site, current designs/reference photo downloads, revision conflicts and retry protection. Fixes overflowing buttons, photo controls and narrow-screen layouts. 38 app tests, 7 sync tests, 9 release tests and browser layout checks passed; unsigned arm64 IPA and 142 bundled images/fonts verified. Physical iPhone sign-in/runtime not tested. Collections, image notes, casting boards, reference uploads, discussions and discovery taste remain local."
+    },
     {
       "version": "0.4.0",
       "buildVersion": "4",
