@@ -1,0 +1,40 @@
+{
+  "version": "0.3.0",
+  "build": "3",
+  "easBuildId": "cc2cad88-dc6d-4878-9b11-57934f86473a",
+  "publishingWorkflow": 38196159731,
+  "bytes": 29272076,
+  "sha256": "051ede283798ce86b607569b86313a25fb0ec09003d2ad49da6164ddbbf728e0",
+  "bundleIdentifier": "com.zay.samplesizeclothing",
+  "minimumIOS": "16.4",
+  "architecture": "arm64",
+  "signing": "unsigned for owner-managed Feather signing",
+  "checks": {
+    "appUnitTests": 27,
+    "publisherTests": 9,
+    "typecheck": "passed",
+    "lint": "passed",
+    "webExport": "passed",
+    "iosHermesExport": "passed",
+    "archiveIntegrity": "passed",
+    "bundledImagesAndFonts": 115,
+    "publicGitHubDownloadChecksum": "matched",
+    "anonymousFeatherCatalog": "0.3.0 with 0.2.0 and 0.1.0 retained"
+  },
+  "browserQA": [
+    "390x844 layout",
+    "quarter-point rating, Rework reason and history",
+    "threaded local note and reply",
+    "weighted assessment saving",
+    "feedback persistence after reload",
+    "two-file import",
+    "casting selection retains profile revision",
+    "attachment persistence after reload"
+  ],
+  "limitations": [
+    "Physical iPhone installation and runtime untested",
+    "Native picker/share behavior untested",
+    "Local data only; no cloud sync or background push",
+    "JSON export includes file identities but not attachment bytes"
+  ]
+}
