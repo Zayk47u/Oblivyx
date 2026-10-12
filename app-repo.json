@@ -55,8 +55,8 @@
       "bundleIdentifier": "com.zay.samplesizeclothing",
       "developerName": "Zay",
       "subtitle": "References and decisions for your clothing brand.",
-      "localizedDescription": "Clothing-brand research and review with Grailed and Depop listing search, full photo galleries and followed searches. Authenticated Brand Review site sync for design ratings, feedback and decisions. Followed marketplace searches refresh every six hours while active or on return; provider availability and limits apply. Collections, image notes, casting boards and discovery taste remain local. Tag-based ranking, not visual AI training. Unsigned for Feather; iOS 16.4 or later.",
-      "tintColor": "D4D4DC",
+      "localizedDescription": "Clothing-brand research and review with Grailed and Depop search, full photo galleries, followed searches and a shared Brand Review workspace. Saved inspiration, exact decisions/notes/tags, collections, image notes, discussions, reference and casting files, revisions, drafts, preferences and inbox state sync while active or on return. Design ratings and weighted criteria retain their exact-version sync. Tag-based ranking; no visual AI training or closed-app background refresh. Unsigned for Feather; iOS 16.4 or later.",
+      "tintColor": "D4DFBD",
       "iconURL": "https://raw.githubusercontent.com/Zayk47u/Oblivyx/main/assets/icons/sample-size.png",
       "beta": true,
       "appPermissions": {
@@ -68,6 +68,15 @@
         ]
       },
       "versions": [
+        {
+          "version": "0.7.0",
+          "buildVersion": "7",
+          "date": "2026-10-12T21:46:42.435Z",
+          "size": 85560150,
+          "minOSVersion": "16.4",
+          "localizedDescription": "Adds shared app/site workspace sync, migration of existing saved inspiration and exact notes, original-file transfer, conflict protection, reference/casting library integration and retained history. Polished dark/sage UI, compact Saved controls and visible Work tabs. 48 app tests, 15 site tests, authenticated loopback file/record checks, browser flows and 142 bundled assets verified. Physical iPhone runtime and live account roundtrip remain unverified; sync runs while active/on return.",
+          "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/sample-size-v0.7.0-b7/Sample-Size-v0.7.0-unsigned.ipa"
+        },
         {
           "version": "0.6.0",
           "buildVersion": "6",
@@ -123,10 +132,10 @@
           "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/sample-size-v0.1.0-b1/Sample-Size-v0.1.0-unsigned.ipa"
         }
       ],
-      "version": "0.6.0",
-      "versionDate": "2026-10-12T05:34:13.533Z",
-      "size": 85549904,
-      "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/sample-size-v0.6.0-b6/Sample-Size-v0.6.0-unsigned.ipa"
+      "version": "0.7.0",
+      "versionDate": "2026-10-12T21:46:42.435Z",
+      "size": 85560150,
+      "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/sample-size-v0.7.0-b7/Sample-Size-v0.7.0-unsigned.ipa"
     }
   ],
   "news": []
