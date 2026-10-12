@@ -1,0 +1,25 @@
+{
+  "slug": "continuum",
+  "name": "CONTINUUM",
+  "bundleIdentifier": "com.zayk47u.continuum",
+  "developerName": "Zay",
+  "subtitle": "Work, life, and a little chaos.",
+  "localizedDescription": "A local-only native space for exploring preferences and creative ideas. Quick Calibrate supports adaptive questions, skipping, answer editing, and explicit draft review. Spark offers authored brainstorming prompts, history, and favorites. Drafts and preferences stay in unencrypted local app storage, separate from authoritative Continuity records. No personal data is connected. Deep Dive and AI brainstorming are not yet available. Unsigned for Feather; iOS 16.4 or later.",
+  "iconPath": "assets/icons/continuum.png",
+  "tintColor": "C0EFCB",
+  "beta": true,
+  "appPermissions": {},
+  "versions": [
+    {
+      "version": "0.1.0",
+      "buildVersion": "1",
+      "date": "2026-10-12T04:41:16.545Z",
+      "minOSVersion": "16.4",
+      "size": 7671815,
+      "sha256": "4be058851ff1b9d29a734a12d5c39035d585575e22cacbc1c661deeb3c8f64e5",
+      "fileName": "CONTINUUM-v0.1.0-unsigned.ipa",
+      "sourceURL": "https://raw.githubusercontent.com/Zayk47u/Oblivyx/main/artifacts/continuum/CONTINUUM-v0.1.0-unsigned.ipa",
+      "localizedDescription": "First native iOS preview: five screens, persistent Quick Calibrate drafts, adaptive follow-ups, review/edit/skip, and Spark history/favorites. 19 native tests, 31 existing tests, TypeScript, Expo Doctor, Release device/simulator builds, and two iOS simulator flows passed. Physical iPhone installation, signing, haptics, and VoiceOver remain untested. No live Continuity or AI connection."
+    }
+  ]
+}

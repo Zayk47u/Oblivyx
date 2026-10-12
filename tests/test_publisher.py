@@ -70,7 +70,8 @@ class PublisherTests(unittest.TestCase):
     def test_duplicate_app_and_bad_descriptor_rejected(self):
         with tempfile.TemporaryDirectory() as directory:
             root = Path(directory)
-            (root / "sample-size.json").write_text(json.dumps(self.app))
+            descriptor = root / f"{self.app['slug']}.json"
+            descriptor.write_text(json.dumps(self.app))
             another = copy.deepcopy(self.app)
             another["slug"] = "another-app"
             (root / "another-app.json").write_text(json.dumps(another))
@@ -78,7 +79,7 @@ class PublisherTests(unittest.TestCase):
                 p.load_apps(root)
             (root / "another-app.json").unlink()
             self.app["versions"][0]["fileName"] = "../../unsafe.ipa"
-            (root / "sample-size.json").write_text(json.dumps(self.app))
+            descriptor.write_text(json.dumps(self.app))
             with self.assertRaisesRegex(ValueError, "Invalid IPA file name"):
                 p.load_apps(root)
 
