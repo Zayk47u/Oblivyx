@@ -11,12 +11,21 @@
       "bundleIdentifier": "com.zayk47u.continuum",
       "developerName": "Zay",
       "subtitle": "Work, life, and a little chaos.",
-      "localizedDescription": "A cloud-connected native space for work, life, and creative ideas. Sign in with the same email on iPhone and the private Continuity website. Explicitly import selected non-sensitive reference snapshots on the website; Quick Calibrate and Deep Dive select source-grounded questions on the server. Edit, skip, review, and propose corrections without changing authoritative records. Spark uses a secure AI gateway with consent, history, and favorites. Unsigned for Feather; iOS 16.4 or later.",
+      "localizedDescription": "A native workspace with a sourced profile from your private Zay \u2014 Continuity website. Connect selected non-sensitive categories to seed preferences and project context for Calibrate. Refresh source changes on the signed-in website, then sync the profile to your phone. Source-grounded questions, Deep Dive, reviewed answers, cloud drafts and AI Spark. Authoritative approvals remain in Continuity. Unsigned for Feather; iOS 16.4 or later.",
       "tintColor": "C0EFCB",
       "iconURL": "https://raw.githubusercontent.com/Zayk47u/Oblivyx/main/assets/icons/continuum.png",
       "beta": true,
       "appPermissions": {},
       "versions": [
+        {
+          "version": "0.4.0",
+          "buildVersion": "5",
+          "date": "2026-10-12T22:34:47.418Z",
+          "size": 8032492,
+          "minOSVersion": "16.4",
+          "localizedDescription": "New native Continuity profile with source text, revisions and refresh controls. Selected categories seed initial calibration; signed-in website refreshes preserve scope exclusions and can be paused. Source refresh requires opening the private website. 48 core tests, 22 native tests, TypeScript and macOS device build passed. Physical iPhone runtime remains unverified.",
+          "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/continuum-v0.4.0-b5/CONTINUUM-v0.4.0-unsigned.ipa"
+        },
         {
           "version": "0.3.1",
           "buildVersion": "4",
@@ -45,10 +54,10 @@
           "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/continuum-v0.1.0-b1/CONTINUUM-v0.1.0-unsigned.ipa"
         }
       ],
-      "version": "0.3.1",
-      "versionDate": "2026-10-12T21:41:47.765Z",
-      "size": 8027545,
-      "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/continuum-v0.3.1-b4/CONTINUUM-v0.3.1-unsigned.ipa"
+      "version": "0.4.0",
+      "versionDate": "2026-10-12T22:34:47.418Z",
+      "size": 8032492,
+      "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/continuum-v0.4.0-b5/CONTINUUM-v0.4.0-unsigned.ipa"
     },
     {
       "name": "Sample Size",
