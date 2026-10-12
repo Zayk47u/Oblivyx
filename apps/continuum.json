@@ -11,6 +11,17 @@
   "appPermissions": {},
   "versions": [
     {
+      "version": "0.3.1",
+      "buildVersion": "4",
+      "date": "2026-10-12T21:41:47.765Z",
+      "minOSVersion": "16.4",
+      "size": 8027545,
+      "sha256": "db3a2e82a63619808c75a99b0dcf83d87706835605e7f0243b5f347ba1ca1590",
+      "fileName": "CONTINUUM-v0.3.1-unsigned.ipa",
+      "sourceURL": "https://raw.githubusercontent.com/Zayk47u/Oblivyx/main/artifacts/continuum/CONTINUUM-v0.3.1-unsigned.ipa",
+      "localizedDescription": "Cloud-connected release with source-grounded Calibrate, adaptive Deep Dive, answer review and AI Spark. Fixes cloud-aware home counts and AI help. Live website sign-in, authorized context import, cloud answer persistence, real AI generation, favorites and idempotent pending proposals verified. 43 root tests, 21 native tests, TypeScript and macOS device archive passed. Physical iPhone acceptance remains pending."
+    },
+    {
       "version": "0.3.0",
       "buildVersion": "3",
       "date": "2026-10-12T21:16:33.508Z",
