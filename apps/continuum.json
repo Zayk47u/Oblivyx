@@ -4,12 +4,23 @@
   "bundleIdentifier": "com.zayk47u.continuum",
   "developerName": "Zay",
   "subtitle": "Work, life, and a little chaos.",
-  "localizedDescription": "A local-only native space for exploring preferences and creative ideas. Quick Calibrate supports adaptive questions, skipping, answer editing, and explicit draft review. Spark offers authored brainstorming prompts, history, and favorites. Drafts and preferences stay in unencrypted local app storage, separate from authoritative Continuity records. No personal data is connected. Deep Dive and AI brainstorming are not yet available. Unsigned for Feather; iOS 16.4 or later.",
+  "localizedDescription": "A cloud-connected native space for work, life, and creative ideas. Sign in with the same email on iPhone and the private Continuity website. Explicitly import selected non-sensitive reference snapshots on the website; Quick Calibrate and Deep Dive select source-grounded questions on the server. Edit, skip, review, and propose corrections without changing authoritative records. Spark uses a secure AI gateway with consent, history, and favorites. Unsigned for Feather; iOS 16.4 or later.",
   "iconPath": "assets/icons/continuum.png",
   "tintColor": "C0EFCB",
   "beta": true,
   "appPermissions": {},
   "versions": [
+    {
+      "version": "0.3.0",
+      "buildVersion": "3",
+      "date": "2026-10-12T21:16:33.508Z",
+      "minOSVersion": "16.4",
+      "size": 8027357,
+      "sha256": "ce655ed283e53b07d4501e3e34ede5a66c5676800ffcf5433fff2d3c9e674b0c",
+      "fileName": "CONTINUUM-v0.3.0-unsigned.ipa",
+      "sourceURL": "https://raw.githubusercontent.com/Zayk47u/Oblivyx/main/artifacts/continuum/CONTINUUM-v0.3.0-unsigned.ipa",
+      "localizedDescription": "Cloud auth and sync; explicit scoped context import on the private website; source-grounded server Calibrate and adaptive Deep Dive; reviewable targeted proposals; AI Spark and favorites. 43 root tests, 21 native tests, TypeScript and macOS Release device build passed. Physical iPhone acceptance is pending. Rule-based question selection; no automatic access to private website sessions."
+    },
     {
       "version": "0.1.0",
       "buildVersion": "1",
