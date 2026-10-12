@@ -11,7 +11,7 @@
       "bundleIdentifier": "com.zay.samplesizeclothing",
       "developerName": "Zay",
       "subtitle": "The outside edit. Your taste, discovered.",
-      "localizedDescription": "Black/silver clothing discovery and design workspace. Browse fresh products sourced from official Jaded London, Affliction and Ed Hardy stores, with a daily refreshed feed, personal and brand taste lanes, saved collections, and exact-version design reviews. Your original references stay in a separate archive. Product photos require internet; verify stock, price and sizing at the store. Feedback stays on your phone until exported. Unsigned: sign and install with your own Feather certificate. Requires iOS16.4 or later.",
+      "localizedDescription": "Black/silver clothing discovery and review workspace. Fresh official-store products, personal and brand taste lanes, saved collections, focused design reviews, multi-file references and casting profiles. Quarter-point ratings, Keep/Rework/Later/Scrap, weighted assessments, threaded notes and decision history. In-app arrival inbox; no background push or cloud sync. Feedback and added files stay on your device; JSON exports contain file identities, not attachment bytes. Unsigned: sign and install with your own Feather certificate. Requires iOS16.4 or later.",
       "tintColor": "D4D4DC",
       "iconURL": "https://raw.githubusercontent.com/Zayk47u/Oblivyx/main/assets/icons/sample-size.png",
       "beta": true,
@@ -24,6 +24,15 @@
         ]
       },
       "versions": [
+        {
+          "version": "0.3.0",
+          "buildVersion": "3",
+          "date": "2026-10-12T02:29:23.557Z",
+          "size": 29272076,
+          "minOSVersion": "16.4",
+          "localizedDescription": "Focused review sessions, Rework with reasons, weighted criteria, threaded local notes, reversible decision history, brand filters, multi-file reference/casting boards and an in-app arrival inbox. 27 app tests and mobile browser checks passed; native IPA archive verified. Physical iPhone runtime remains untested. Local-only data; export JSON omits attachment bytes.",
+          "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/sample-size-v0.3.0-b3/Sample-Size-v0.3.0-unsigned.ipa"
+        },
         {
           "version": "0.2.0",
           "buildVersion": "2",
@@ -43,10 +52,10 @@
           "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/sample-size-v0.1.0-b1/Sample-Size-v0.1.0-unsigned.ipa"
         }
       ],
-      "version": "0.2.0",
-      "versionDate": "2026-10-11T00:05:46.835Z",
-      "size": 29231677,
-      "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/sample-size-v0.2.0-b2/Sample-Size-v0.2.0-unsigned.ipa"
+      "version": "0.3.0",
+      "versionDate": "2026-10-12T02:29:23.557Z",
+      "size": 29272076,
+      "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/sample-size-v0.3.0-b3/Sample-Size-v0.3.0-unsigned.ipa"
     }
   ],
   "news": []
