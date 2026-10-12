@@ -11,7 +11,7 @@
       "bundleIdentifier": "com.zay.samplesizeclothing",
       "developerName": "Zay",
       "subtitle": "References and decisions for your clothing brand.",
-      "localizedDescription": "Image-first clothing-brand research and review. Multi-photo galleries, five built-in catalogs, custom source controls, separate taste lanes, named collections, fractional ratings, exact-image notes, graphic criteria, revision comparison and multi-file references/casting. Recoverable drafts and complete attachment backups. Tag-based ranking; no visual AI training, live site sync or background push. Grailed/Depop are links/manual imports, not connected accounts. Unsigned for Feather signing. Requires iOS16.4 or later.",
+      "localizedDescription": "Clothing-brand research and review with private Brand Review site sync for design ratings, written feedback, decisions, reasons and weighted criteria. Download current designs and reference photos. Multi-photo galleries, fractional scores, custom discovery sources and recoverable local drafts. Collections, image notes, casting boards and discovery taste remain local. No visual AI training or connected marketplace accounts. Unsigned for Feather; iOS 16.4 or later.",
       "tintColor": "D4D4DC",
       "iconURL": "https://raw.githubusercontent.com/Zayk47u/Oblivyx/main/assets/icons/sample-size.png",
       "beta": true,
@@ -24,6 +24,15 @@
         ]
       },
       "versions": [
+        {
+          "version": "0.5.0",
+          "buildVersion": "5",
+          "date": "2026-10-12T04:55:44.828Z",
+          "size": 85541892,
+          "minOSVersion": "16.4",
+          "localizedDescription": "Adds authenticated design-review sync with your existing Brand Review site, current designs/reference photo downloads, revision conflicts and retry protection. Fixes overflowing buttons, photo controls and narrow-screen layouts. 38 app tests, 7 sync tests, 9 release tests and browser layout checks passed; unsigned arm64 IPA and 142 bundled images/fonts verified. Physical iPhone sign-in/runtime not tested. Collections, image notes, casting boards, reference uploads, discussions and discovery taste remain local.",
+          "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/sample-size-v0.5.0-b5/Sample-Size-v0.5.0-unsigned.ipa"
+        },
         {
           "version": "0.4.0",
           "buildVersion": "4",
@@ -61,10 +70,10 @@
           "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/sample-size-v0.1.0-b1/Sample-Size-v0.1.0-unsigned.ipa"
         }
       ],
-      "version": "0.4.0",
-      "versionDate": "2026-10-12T03:47:03Z",
-      "size": 85456221,
-      "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/sample-size-v0.4.0-b4/Sample-Size-v0.4.0-unsigned.ipa"
+      "version": "0.5.0",
+      "versionDate": "2026-10-12T04:55:44.828Z",
+      "size": 85541892,
+      "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/sample-size-v0.5.0-b5/Sample-Size-v0.5.0-unsigned.ipa"
     }
   ],
   "news": []
