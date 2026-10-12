@@ -4,7 +4,7 @@
   "bundleIdentifier": "com.zay.samplesizeclothing",
   "developerName": "Zay",
   "subtitle": "References and decisions for your clothing brand.",
-  "localizedDescription": "Clothing-brand research and review with private Brand Review site sync for design ratings, written feedback, decisions, reasons and weighted criteria. Download current designs and reference photos. Multi-photo galleries, fractional scores, custom discovery sources and recoverable local drafts. Collections, image notes, casting boards and discovery taste remain local. No visual AI training or connected marketplace accounts. Unsigned for Feather; iOS 16.4 or later.",
+  "localizedDescription": "Clothing-brand research and review with Grailed and Depop listing search, full photo galleries and followed searches. Authenticated Brand Review site sync for design ratings, feedback and decisions. Followed marketplace searches refresh every six hours while active or on return; provider availability and limits apply. Collections, image notes, casting boards and discovery taste remain local. Tag-based ranking, not visual AI training. Unsigned for Feather; iOS 16.4 or later.",
   "iconPath": "assets/icons/sample-size.png",
   "tintColor": "D4D4DC",
   "beta": true,
@@ -17,6 +17,17 @@
     ]
   },
   "versions": [
+    {
+      "version": "0.6.0",
+      "buildVersion": "6",
+      "date": "2026-10-12T05:34:13.533Z",
+      "minOSVersion": "16.4",
+      "size": 85549904,
+      "sha256": "5aac08b5a7a33501f5ded31b057d65422906918ca03d1fc5f40829e4d95ef27b",
+      "fileName": "Sample-Size-v0.6.0-unsigned.ipa",
+      "sourceURL": "https://expo.dev/artifacts/eas/S8JBzfSjSuGAsYS3foCnrvYfcrD5svcMAt2R-akq8zc.ipa",
+      "localizedDescription": "Adds real Grailed/Depop search through the private site connection, full listing photo galleries, saved searches in Discover, six-hour foreground/return refresh, cached fallback and daily provider limits. Built-in discovery refreshes while active. 41 app tests, 10 server tests, route cache/auth/failure checks and 9 release tests passed; live marketplace search/detail responses and phone-width UI verified. Physical iPhone sign-in/runtime untested. No closed-app background refresh or visual AI learning."
+    },
     {
       "version": "0.5.0",
       "buildVersion": "5",
