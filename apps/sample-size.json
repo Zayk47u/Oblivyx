@@ -4,9 +4,9 @@
   "bundleIdentifier": "com.zay.samplesizeclothing",
   "developerName": "Zay",
   "subtitle": "References and decisions for your clothing brand.",
-  "localizedDescription": "Clothing-brand research and review with Grailed and Depop listing search, full photo galleries and followed searches. Authenticated Brand Review site sync for design ratings, feedback and decisions. Followed marketplace searches refresh every six hours while active or on return; provider availability and limits apply. Collections, image notes, casting boards and discovery taste remain local. Tag-based ranking, not visual AI training. Unsigned for Feather; iOS 16.4 or later.",
+  "localizedDescription": "Clothing-brand research and review with Grailed and Depop search, full photo galleries, followed searches and a shared Brand Review workspace. Saved inspiration, exact decisions/notes/tags, collections, image notes, discussions, reference and casting files, revisions, drafts, preferences and inbox state sync while active or on return. Design ratings and weighted criteria retain their exact-version sync. Tag-based ranking; no visual AI training or closed-app background refresh. Unsigned for Feather; iOS 16.4 or later.",
   "iconPath": "assets/icons/sample-size.png",
-  "tintColor": "D4D4DC",
+  "tintColor": "D4DFBD",
   "beta": true,
   "appPermissions": {
     "privacy": [
@@ -17,6 +17,17 @@
     ]
   },
   "versions": [
+    {
+      "version": "0.7.0",
+      "buildVersion": "7",
+      "date": "2026-10-12T21:46:42.435Z",
+      "minOSVersion": "16.4",
+      "size": 85560150,
+      "sha256": "4f82efae69e4e0e908563075c6831654b2ec70fb353e2dc789656cec99d83aca",
+      "fileName": "Sample-Size-v0.7.0-unsigned.ipa",
+      "sourceURL": "https://expo.dev/artifacts/eas/B4A11aV0Pp-tnEl0jH4b3RmdRililEToYtneNi-aLes.ipa",
+      "localizedDescription": "Adds shared app/site workspace sync, migration of existing saved inspiration and exact notes, original-file transfer, conflict protection, reference/casting library integration and retained history. Polished dark/sage UI, compact Saved controls and visible Work tabs. 48 app tests, 15 site tests, authenticated loopback file/record checks, browser flows and 142 bundled assets verified. Physical iPhone runtime and live account roundtrip remain unverified; sync runs while active/on return."
+    },
     {
       "version": "0.6.0",
       "buildVersion": "6",
