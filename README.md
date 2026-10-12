@@ -19,7 +19,7 @@ Add the source once. Refresh Sources for new apps and releases. Feather signs th
 
 | App | Current preview | Minimum iOS | Status |
 | --- | --- | --- | --- |
-| Sample Size | 0.2.0, build 2 | 16.4 | Black/silver editorial UI, official-store discoveries, collections, design review, and export; unsigned |
+| Sample Size | 0.3.0, build 3 | 16.4 | Discovery, focused reviews, multi-file references, casting, decision history and in-app inbox; unsigned |
 
 Sample Size now discovers products from the official Jaded London, Affliction and Ed Hardy catalogs instead of recycling the owner’s original references. The store feed refreshes daily; pull to refresh or use Refresh inside the app. Original references remain under Original archive. Saved product metadata is retained across catalog updates. Product images need a network connection; check the store for current stock, sizing and price. Automatic website feedback sync is not connected. Browser interaction tests passed; installation and native runtime on an iPhone have not yet been verified.
 
