@@ -1,6 +1,37 @@
 # Oblivyx
 Experimental applications for experimental people
 
+## What this repository contains
+
+Oblivyx is an iOS app distribution catalog with repository-specific Python maintenance tools. It is **not the source repository for the distributed apps**, an app builder, or a general-purpose package.
+
+- **Catalog publisher:** validates app descriptors and IPA size, SHA-256, archive integrity, bundle identifier, version/build, minimum iOS, and device platform; publishes versioned GitHub release assets; generates a Feather source while retaining earlier versions.
+- **Public product discoveries:** transforms public store catalogs into clothing discovery feeds. Individual store failures retain cached products; an all-store failure leaves that feed unchanged.
+- **Tests:** Python unittest coverage for catalog/version preservation, release retry behavior, checksum conflicts, descriptor/archive validation, product transformation, and cached-feed behavior.
+
+The scripts are currently tied to this repository's catalog, paths, and configured stores. Public visibility does not itself grant an open-source license. No project-wide source-code license is currently declared; third-party font notices apply only to the identified fonts. App binaries, branding, images, and store data are separate materials—not automatically licensed with the Python tooling.
+
+## Check the tooling locally
+
+Use Python 3.11 or newer; the publisher uses `hashlib.file_digest`. From a local checkout:
+
+```sh
+git clone https://github.com/Zayk47u/Oblivyx.git
+cd Oblivyx
+python3 -m unittest discover -s tests -v
+python3 scripts/publish_catalog.py --validate-only
+```
+
+These commands run local tests and descriptor validation, not release publication. Tests use mocks, synthetic IPA archives, and temporary files. They do not prove that an app runs on a physical iPhone. No third-party Python package installation is required by these scripts.
+
+**Do not omit `--validate-only` for a local check.** The publishing path uses authenticated `gh`, `curl`, and GitHub Actions environment variables to create/upload/publish releases. `--verify-ipa /path/to/app.ipa` additionally checks an archive, but currently requires a catalog containing exactly one app; the live catalog contains more than one.
+
+Running `scripts/refresh_discoveries.py` directly contacts configured stores and writes local feed files. The local unit tests are the appropriate first check instead. The scheduled workflow also commits refreshed feed data.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for change boundaries and review guidance. Never submit credentials, signing certificates, private app source, personal records, or unapproved artifacts.
+
+## App catalog
+
 Zay's shared app catalog. This is the default distribution home for the iOS apps we make.
 
 ## Add to Feather
@@ -49,3 +80,4 @@ The workflow can also be rerun manually from the repository's Actions tab. Publi
 This is a public repository: release IPAs, icons, and app descriptions are publicly downloadable.
 
 Sample Size uses Unifraktur Cook and Barlow Condensed under the SIL Open Font License. [Font licenses](assets/licenses/sample-size-fonts.txt).
+
