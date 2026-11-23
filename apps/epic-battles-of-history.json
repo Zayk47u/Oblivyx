@@ -1,0 +1,26 @@
+{
+  "slug": "epic-battles-of-history",
+  "name": "Epic Battles of History",
+  "bundleIdentifier": "com.oblivyxstudios.ebh.striker.demo",
+  "developerName": "Zay",
+  "subtitle": "Portrait 3v3 history brawler",
+  "localizedDescription": "Historical figures brawl in a portrait 3v3 fighting game. This unsigned test build is for Feather on iOS 15.0 or later.",
+  "iconPath": "assets/icons/epic-battles-of-history.png",
+  "tintColor": "181838",
+  "beta": true,
+  "appPermissions": {},
+  "versions": [
+    {
+      "version": "0.0.15",
+      "buildVersion": "15",
+      "date": "2026-11-22T09:03:24Z",
+      "size": 83140949,
+      "minOSVersion": "15.0",
+      "sha256": "264ec6372badb6fb3f8c7f71a5db25f091d8dc0e883f496a1d6112e1d58e9bfb",
+      "fileName": "EBH-e9373b7-unsigned.ipa",
+      "sourceURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.15-b15/EBH-e9373b7-unsigned.ipa",
+      "localizedDescription": "New\n- Overload Grip has a visible overhand windup.\n\nChanged\n- Light hits, heavy hits and blocks use smaller contact effects.\n- The knockout burst is smaller and the K.O.! banner sits above the fighters.\n\nFixed\n- The orange grab warning clears when the windup ends or a Special interrupts it.\n- Portrait Special shots leave more room for fighters to recoil.\n\nKnown issues: An ordinary throw can still crop a fighter during recovery.",
+      "sourceCommit": "e9373b71ce920f98f81f10c646210362e68fb4d2"
+    }
+  ]
+}
