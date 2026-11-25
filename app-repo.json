@@ -71,6 +71,15 @@
       "appPermissions": {},
       "versions": [
         {
+          "version": "0.0.23",
+          "buildVersion": "23",
+          "date": "2026-11-25T22:18:00Z",
+          "size": 85538793,
+          "minOSVersion": "15.0",
+          "localizedDescription": "New\n- Pick your team before a match, and pick who you play in Training.\n- Switch arenas from the arena picker.\n- Luther fights with his own model, hammer and Door Service Special.\n- Rate each match and flag a moment with a note; full matches are recorded for review.\n\nChanged\n- Team select moves on by itself once your team is set.\n- A tagged-in fighter runs in along the floor.\n- Input buffering and defence against Specials are reworked.\n- The Flag button sits in the top-right corner.\n\nFixed\n- The K.O. hand-off to the next fighter no longer pops.\n- A black-screen bug from an earlier test build.\n\nKnown issues: This build has not been checked on a phone yet.",
+          "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.23-b23/EBH-de8b252-unsigned.ipa"
+        },
+        {
           "version": "0.0.15",
           "buildVersion": "15",
           "date": "2026-11-22T09:03:24Z",
@@ -80,10 +89,10 @@
           "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.15-b15/EBH-e9373b7-unsigned.ipa"
         }
       ],
-      "version": "0.0.15",
-      "versionDate": "2026-11-22T09:03:24Z",
-      "size": 83140949,
-      "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.15-b15/EBH-e9373b7-unsigned.ipa"
+      "version": "0.0.23",
+      "versionDate": "2026-11-25T22:18:00Z",
+      "size": 85538793,
+      "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.23-b23/EBH-de8b252-unsigned.ipa"
     },
     {
       "name": "Sample Size",
