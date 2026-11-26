@@ -71,6 +71,15 @@
       "appPermissions": {},
       "versions": [
         {
+          "version": "0.0.13",
+          "buildVersion": "13",
+          "date": "2026-11-26T11:10:00Z",
+          "size": 85715076,
+          "minOSVersion": "15.0",
+          "localizedDescription": "Build v013. The phone shows it as version 0.0.13 (13). It installs over v012.\n\nNew\n- Attacks step in to reach the target from up to 2.2 m, and turn to face it, so lights, chains and Blitz stop whiffing at a short gap.\n\nChanged\n- The camera sits closer (fighters fill about half the screen) and only punches in on big hits.\n- Washington's muzzle flash follows his gun. The gold starburst on Executive Order is gone.\n- FLAG: tap MIC once to start and once to stop. NOTE pauses the game, then Send.\n\nFixed\n- Training records the whole session in parts under 10 MB, retries failed uploads and recovers after a relaunch.\n\nKnown issues: Not tested on a phone yet.",
+          "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.13-b13/EBH-5a089fa-unsigned.ipa"
+        },
+        {
           "version": "0.0.12",
           "buildVersion": "13",
           "date": "2026-11-26T06:00:30Z",
@@ -125,10 +134,10 @@
           "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.15-b15/EBH-e9373b7-unsigned.ipa"
         }
       ],
-      "version": "0.0.12",
-      "versionDate": "2026-11-26T06:00:30Z",
-      "size": 85709682,
-      "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.12-b13/EBH-3451bfe-b13-unsigned.ipa"
+      "version": "0.0.13",
+      "versionDate": "2026-11-26T11:10:00Z",
+      "size": 85715076,
+      "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.13-b13/EBH-5a089fa-unsigned.ipa"
     },
     {
       "name": "Sample Size",
