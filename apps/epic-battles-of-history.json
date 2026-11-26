@@ -18,7 +18,7 @@
       "minOSVersion": "15.0",
       "sha256": "81d457ad1bae56186cf72cde2aa81c6a9f96df2c328acd617f44ea80b238883b",
       "fileName": "EBH-ec7e34b-unsigned.ipa",
-      "sourceURL": "https://nomac.app/api/v1/mac/links/DrVRzczK5IdogkHDUNFFcaWqdn7Fg-KB/file",
+      "sourceURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.24-b24/EBH-ec7e34b-unsigned.ipa",
       "localizedDescription": "New\n- The K.O. now reads cleanly: a small burst, a NEXT card at the edge that names the incoming fighter, and a slow camera push-in.\n- Clean hits push the target back; heavy hits push further.\n- HEAVY and a full Special pulse when they are ready.\n\nChanged\n- A side swipe next to a wall steps the other way instead of doing nothing, and the screen says why when it can't move.\n- The camera holds steady, keeps headroom and glides when fighters swap.\n- Only PARRY, PARRIED and COUNTER appear as words; BLOCK, MISS, DODGE and EVADED are gone.\n- The ranged CPU keeps moving while its shot recharges.\n- A tagged-in fighter lands about 2 m away instead of nose to nose.\n\nFixed\n- Luther standing still when swiped toward the near wall.\n- The K.O. banner no longer covers the ENEMY label, and damage numbers stay below it.\n\nKnown issues: This build has not been checked on a phone yet. The installed app shows the default Defold icon on the home screen; the EBH icon goes into the app itself from the next build.",
       "sourceCommit": "ec7e34b66a9aeb2208a64a6a0922d78e11362992"
     },
