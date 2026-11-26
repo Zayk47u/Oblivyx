@@ -72,6 +72,15 @@
       "versions": [
         {
           "version": "0.0.12",
+          "buildVersion": "13",
+          "date": "2026-11-26T06:00:30Z",
+          "size": 85709682,
+          "minOSVersion": "15.0",
+          "localizedDescription": "Build v012, recording fixed. The phone shows it as version 0.0.12 (13). It installs over v011 and over v012 build 12.\n\nFixed\n- Build 12 started with the recorder switched off, so matches and Training recorded nothing and FLAG notes had no video or mic. Build 13 is the same code with the recorder on.\n\nNew\n- Training records the whole session, from the moment you enter until you leave, as one recording uploaded in parts under 10 MB.\n- Training lets you pick both YOU and the DUMMY before you start.\n- A match intro plays on the first match of each session. Settings has a MATCH INTRO switch to turn it off.\n- FLAG is quicker, and a voice note records only while you hold MIC on the open flag.\n- When your Special meter is full (Time Out for Hayes), the meter and the Special button give a clear ready cue.\n- Fighters have ink outlines and cel shading, hits flash, and a fresh menu starts on Mirrormere.\n\nChanged\n- Specials hit at size 65 (was 55). You can still change it in Test Mode.\n- Play and Settings respond to the first tap after a fresh install.\n\nKnown issues: Not checked on a phone yet. Washington's Special muzzle flash still shows behind him (fix in progress). Recording through to the result screen and the new knockback are not in this build.",
+          "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.12-b13/EBH-3451bfe-b13-unsigned.ipa"
+        },
+        {
+          "version": "0.0.12",
           "buildVersion": "12",
           "date": "2026-11-26T05:37:38Z",
           "size": 85706152,
@@ -117,9 +126,9 @@
         }
       ],
       "version": "0.0.12",
-      "versionDate": "2026-11-26T05:37:38Z",
-      "size": 85706152,
-      "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.12-b12/EBH-3451bfe-unsigned.ipa"
+      "versionDate": "2026-11-26T06:00:30Z",
+      "size": 85709682,
+      "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.12-b13/EBH-3451bfe-b13-unsigned.ipa"
     },
     {
       "name": "Sample Size",
