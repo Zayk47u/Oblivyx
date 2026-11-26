@@ -11,6 +11,18 @@
   "appPermissions": {},
   "versions": [
     {
+      "version": "0.0.11",
+      "buildVersion": "11",
+      "date": "2026-11-26T04:09:10Z",
+      "size": 85664051,
+      "minOSVersion": "15.0",
+      "sha256": "db5749fb806d85fc9a9bb433d51c2d87e617987aee83b7afc367aaa1682b9d82",
+      "fileName": "EBH-fc98bc5-unsigned.ipa",
+      "sourceURL": "https://nomac.app/api/v1/mac/links/6WlkFWjd1Z3aBf8c3pWh0_Ua9V56DFUh/file",
+      "localizedDescription": "Build v011. The phone shows it as version 0.0.11 (11), matching the build name.\n\nBefore you install: delete EBH from your phone once. v010 showed 0.0.24, so iOS may refuse to put 0.0.11 over it.\n\nNew\n- On every K.O. the camera glides into a front shot of the winner, then cuts to a high shot of the fallen fighter and glides back as the next fighter comes in.\n- The NEXT card waits through the winner shot and appears below the fallen fighter.\n- The home screen shows the EBH icon (Hayes on red) instead of the default Defold icon.\n\nChanged\n- The version on the phone now matches the build name: v011 = 0.0.11, v012 = 0.0.12.\n\nKnown issues: Not checked on a phone yet, including how the K.O. cut feels in real time. The first frame of the fallen shot can catch the body mid-fall.",
+      "sourceCommit": "fc98bc5f1dae276041bb5914e381f5cf4104fddc"
+    },
+    {
       "version": "0.0.24",
       "buildVersion": "24",
       "date": "2026-11-26T02:33:41Z",
