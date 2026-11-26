@@ -5,7 +5,7 @@
   "developerName": "Zay",
   "subtitle": "Portrait 3v3 history brawler",
   "localizedDescription": "Historical figures brawl in a portrait 3v3 fighting game. This unsigned test build is for Feather on iOS 15.0 or later.",
-  "iconPath": "assets/icons/epic-battles-of-history.png",
+  "iconPath": "assets/icons/epic-battles-of-history-v004.png",
   "tintColor": "181838",
   "beta": true,
   "appPermissions": {},
