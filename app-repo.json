@@ -71,6 +71,15 @@
       "appPermissions": {},
       "versions": [
         {
+          "version": "0.0.11",
+          "buildVersion": "11",
+          "date": "2026-11-26T04:09:10Z",
+          "size": 85664051,
+          "minOSVersion": "15.0",
+          "localizedDescription": "Build v011. The phone shows it as version 0.0.11 (11), matching the build name.\n\nBefore you install: delete EBH from your phone once. v010 showed 0.0.24, so iOS may refuse to put 0.0.11 over it.\n\nNew\n- On every K.O. the camera glides into a front shot of the winner, then cuts to a high shot of the fallen fighter and glides back as the next fighter comes in.\n- The NEXT card waits through the winner shot and appears below the fallen fighter.\n- The home screen shows the EBH icon (Hayes on red) instead of the default Defold icon.\n\nChanged\n- The version on the phone now matches the build name: v011 = 0.0.11, v012 = 0.0.12.\n\nKnown issues: Not checked on a phone yet, including how the K.O. cut feels in real time. The first frame of the fallen shot can catch the body mid-fall.",
+          "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.11-b11/EBH-fc98bc5-unsigned.ipa"
+        },
+        {
           "version": "0.0.24",
           "buildVersion": "24",
           "date": "2026-11-26T02:33:41Z",
@@ -98,10 +107,10 @@
           "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.15-b15/EBH-e9373b7-unsigned.ipa"
         }
       ],
-      "version": "0.0.24",
-      "versionDate": "2026-11-26T02:33:41Z",
-      "size": 85557060,
-      "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.24-b24/EBH-ec7e34b-unsigned.ipa"
+      "version": "0.0.11",
+      "versionDate": "2026-11-26T04:09:10Z",
+      "size": 85664051,
+      "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.11-b11/EBH-fc98bc5-unsigned.ipa"
     },
     {
       "name": "Sample Size",
