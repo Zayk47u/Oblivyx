@@ -105,18 +105,6 @@
       "sourceURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.23-b23/EBH-de8b252-unsigned.ipa",
       "localizedDescription": "New\n- Pick your team before a match, and pick who you play in Training.\n- Switch arenas from the arena picker.\n- Luther fights with his own model, hammer and Door Service Special.\n- Rate each match and flag a moment with a note; full matches are recorded for review.\n\nChanged\n- Team select moves on by itself once your team is set.\n- A tagged-in fighter runs in along the floor.\n- Input buffering and defence against Specials are reworked.\n- The Flag button sits in the top-right corner.\n\nFixed\n- The K.O. hand-off to the next fighter no longer pops.\n- A black-screen bug from an earlier test build.\n\nKnown issues: This build has not been checked on a phone yet.",
       "sourceCommit": "de8b25289b00a840512f662f5fcd25f210255075"
-    },
-    {
-      "version": "0.0.15",
-      "buildVersion": "15",
-      "date": "2026-11-22T09:03:24Z",
-      "size": 83140949,
-      "minOSVersion": "15.0",
-      "sha256": "264ec6372badb6fb3f8c7f71a5db25f091d8dc0e883f496a1d6112e1d58e9bfb",
-      "fileName": "EBH-e9373b7-unsigned.ipa",
-      "sourceURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.15-b15/EBH-e9373b7-unsigned.ipa",
-      "localizedDescription": "New\n- Overload Grip has a visible overhand windup.\n\nChanged\n- Light hits, heavy hits and blocks use smaller contact effects.\n- The knockout burst is smaller and the K.O.! banner sits above the fighters.\n\nFixed\n- The orange grab warning clears when the windup ends or a Special interrupts it.\n- Portrait Special shots leave more room for fighters to recoil.\n\nKnown issues: An ordinary throw can still crop a fighter during recovery.",
-      "sourceCommit": "e9373b71ce920f98f81f10c646210362e68fb4d2"
     }
   ]
 }
