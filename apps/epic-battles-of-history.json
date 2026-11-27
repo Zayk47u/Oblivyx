@@ -18,7 +18,7 @@
       "minOSVersion": "15.0",
       "sha256": "932528dab17ab6bf5c1f904cc1f8081ff4dda5a7aff0f6f00fc6bcb10acf4ad5",
       "fileName": "EBH-9f315f3-unsigned.ipa",
-      "sourceURL": "https://nomac.app/api/v1/mac/links/Muviqcfs_xIhp8hFWskhtWmMyrm9ycUS/file",
+      "sourceURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.14-b14/EBH-9f315f3-unsigned.ipa",
       "localizedDescription": "Build v014. The phone shows it as version 0.0.14 (14). It installs over v013.\n\nNew\n- Training: pick 3 fighters and 3 to fight.\n- Gap-close is on: attacks step in and turn to the target.\n- Washington's Golden Gun works from any slot.\n- K.O. flash and darkened frame; arena tint during a Special.\n- Bigger damage numbers, intro reveal, fighter shadows.\n- Hit stop and screen shake scale with the hit.\n- Smarter CPU (v2).\n- A Special that K.O.s plays the K.O. ending.\n- Match video records up to the result screen.\n\nChanged\n- Heavy whiff or block leaves you open longer.\n- Combo counter clears at K.O.; Training dummy stands still; Training HP drops.\n- Cel shading fixes (Goody, hit flash, dark cloth).\n- K.O. camera waits for the landing.\n- Menus fit short screens.\n\nKnown issues: Washington's close moves are not his final kit yet. Not tested on a phone yet.",
       "sourceCommit": "9f315f396bb906243f176091cdd037270bcbdc0c"
     },
