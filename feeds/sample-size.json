@@ -1,27 +1,68 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-26T18:27:49.842959+00:00",
+  "checkedAt": "2026-11-27T18:14:47.850083+00:00",
   "sources": [
     {
       "brand": "Jaded London",
       "status": "ok",
-      "checkedAt": "2026-11-26T18:27:49.842959+00:00",
+      "checkedAt": "2026-11-27T18:14:47.850083+00:00",
       "count": 100
     },
     {
       "brand": "Affliction",
       "status": "ok",
-      "checkedAt": "2026-11-26T18:27:49.842959+00:00",
+      "checkedAt": "2026-11-27T18:14:47.850083+00:00",
       "count": 100
     },
     {
       "brand": "Ed Hardy",
       "status": "ok",
-      "checkedAt": "2026-11-26T18:27:49.842959+00:00",
+      "checkedAt": "2026-11-27T18:14:47.850083+00:00",
       "count": 100
     }
   ],
   "items": [
+    {
+      "id": "store-jaded-15411568083323",
+      "title": "Cleo Slouchy Bootcut Jogger in Pink",
+      "brand": "Jaded London",
+      "category": "Bottoms",
+      "categories": [
+        "Bottoms"
+      ],
+      "sourceUrl": "https://jadedldn.com/products/cleo-slouchy-bootcut-jogger-in-pink-3",
+      "sourceLabel": "Jaded London · official store",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
+      "sourceFacts": "Hot pink low-rise slouchy bootcut go in linen-mix loopback sweat with branded detail.   \n \n \n \n   Low-rise fitted bootcut shape \n \n \n   Slouchy loose fit \n \n \n   Sunfade detail  \n \n \n   Loopback  \n \n \n   Frayed embroidered branding \n \n \n   Adjustable drawcord at waistband  \n \n \n  Hot pink colourway   \n \n \n   Customize Your Fit!   \n  These Joggers are designed with extra length. For a customised fit simply cut to your preferred length, this won’t damage the garment or compromise the design. Ensuring they're just right for you!  \n Model is 5 ft 9 and wears a size S \n   Style code:  JWL6301   \n \n \n \n \n     80% cotton, 20% polyester  Gentle Wash at 30 Wash Separately Wash inside out Reshape whilst damp Cool Iron on reverse Pilling May Occur",
+      "tags": [
+        "fitted",
+        "flare"
+      ],
+      "price": null,
+      "kind": "product",
+      "imageKey": "",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0022/9824/9267/files/Artboard2_52c0f384-e23f-4d18-8e37-265df2132cf5.jpg?v=1774610725",
+      "imageUrls": [
+        "https://cdn.shopify.com/s/files/1/0022/9824/9267/files/Artboard2_52c0f384-e23f-4d18-8e37-265df2132cf5.jpg?v=1774610725",
+        "https://cdn.shopify.com/s/files/1/0022/9824/9267/files/Artboard5_6f298f0d-bf93-4ee4-a6b5-3bcd600b4802.jpg?v=1774610730",
+        "https://cdn.shopify.com/s/files/1/0022/9824/9267/files/Artboard6_32b5a15a-e684-47aa-9dd7-31c3820b4a27.jpg?v=1774610733",
+        "https://cdn.shopify.com/s/files/1/0022/9824/9267/files/Artboard7_a5990f38-55eb-4527-a4b7-055dfb42f67f.jpg?v=1774610735",
+        "https://cdn.shopify.com/s/files/1/0022/9824/9267/files/Artboard4_df590a28-de88-4930-a010-ea70536de74f.jpg?v=1774610740",
+        "https://cdn.shopify.com/s/files/1/0022/9824/9267/files/WW_ECOM_17_JUNE69636.jpg?v=1782397989",
+        "https://cdn.shopify.com/s/files/1/0022/9824/9267/files/WW_ECOM_17_JUNE69645.jpg?v=1782397989",
+        "https://cdn.shopify.com/s/files/1/0022/9824/9267/files/WW_ECOM_17_JUNE69646.jpg?v=1782397989",
+        "https://cdn.shopify.com/s/files/1/0022/9824/9267/files/WW_ECOM_17_JUNE69679.jpg?v=1782397989",
+        "https://cdn.shopify.com/s/files/1/0022/9824/9267/files/WW_ECOM_17_JUNE69686.jpg?v=1782397989",
+        "https://cdn.shopify.com/s/files/1/0022/9824/9267/files/WW_ECOM_17_JUNE69693.jpg?v=1782397989",
+        "https://cdn.shopify.com/s/files/1/0022/9824/9267/files/WW_ECOM_17_JUNE69699.jpg?v=1782397989",
+        "https://cdn.shopify.com/s/files/1/0022/9824/9267/files/WW_ECOM_17_JUNE69707.jpg?v=1782397989"
+      ],
+      "origin": "discovery",
+      "publishedAt": "2026-11-27T16:46:51+00:00",
+      "originalSha256": "",
+      "revision": 1,
+      "influence": 1
+    },
     {
       "id": "store-jaded-15462246154619",
       "title": "One Of One Black Field Jacket",
@@ -32,7 +73,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/one-of-one-black-field-jacket-1",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n   \n Reworked khaki and camo overdyed field jacket. Limited availability, each piece is unique. \n     This style was made over dying existing garments to achieve a worn and vintage look, colour and pattern will vary between garments due to the nature of the fabric, you will receive either an over-dyed camo or khaki fabric.   \n \n Black overdye, each piece is unique. \n Ripstop cotton or cotton twill \n Shank button closure \n Bellowed top pockets \n Double shoulder epaulette detail \n Self-fabric badge detail at arm \n Internal back neck screen print \n Shrunken fit \n \n Gloria is 5 ft 9 and wears a size XS.   Style code: JMJK7388    \n 100% Cotton 30 Degree Machine Wash Wash inside out Colour may transfer onto other garments and upholstery When wet colour may transfer onto lighter colours Colour may fade after washing Cool Iron on reverse Do not rub isolated stains Do not pile whilst damp Avoid contact with light colours and upholstery as colour may transfer",
       "tags": [
         "dark",
@@ -70,7 +111,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/black-cooper-pu-bootcut-jeans",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n Black Cooper PU Bootcut Jeans. \n \n Low rise bootcut fit \n PU faux leather \n Vintaged washed effect on front & back \n Whiskering effect on front \n \nAntique silver metal hardware \n \n Black colourway \n \n Model is 5 ft 9 and wears a size W26 \n  Style code: JWL5211   \n 100% Viscose (Polyurethane Coating) Hand Wash Separately Lay flat to dry",
       "tags": [
         "dark",
@@ -108,7 +149,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/coated-trench-jacket-1",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This Bedrock trench jacket features a double-breasted button closure and a waxed coated fabric finish, accented with shoulder epaulettes and a double gun flap, a storm shield at the back, antique silver shank button detailing, an adjustable belt and a four-front-pocket design. \n \n Double-breasted button closure \n Waxed coated fabric \n Epaulettes at shoulder \n Storm shield at back \n Double gun flap at shoulder \n Antique silver shank button detail \n Adjustable belt feature \n X4 front pocket design \n \n Gloria is 5 ft 9 and wears a size S. \n \n Style code: JMJK6881.  \n \n \n Fabric 1: 79% Cotton, 18% Viscose, 3% Polyester, Fabric 2: 100% Polyurethane, Fabric 3: 50% Stainless Steel, 50% Copper, Fabric 4: 100% Zinc Alloy \nHand Wash Separately \nWash inside out \nReshape whilst damp \nLay flat to dry \nColour may fade after washing \nDo not rub isolated stains",
       "tags": [
         "graphic",
@@ -146,7 +187,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/double-breasted-military-knitted-hoodie-1",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n This ribbed cotton knit hoodie in a black colourway combines military-inspired double-breasted tailoring with relaxed hooded styling, finished with black plastic four‑hole buttons and ribbed hem and cuffs; size up for an oversized fit. \n \n Ribbed cotton knit \n Black colourway \n Double breasted opening \n Hooded styling \n Black plastic 4 hole buttons \n Ribbed hem and cuffs \n Size up for an oversized fit \n \n Gloria is 5 ft 9 and wears a size S. \n \n Style code: JMKW6866  \n \n \n 54% Polyester, 22% Viscose, 10% Acrylic, 10% Nylon, 3% Wool, 1% Cotton \nHand Wash Separately \nWash inside out \nReshape whilst damp \nDo not pile whilst damp \nLay flat to dry \nTake care to avoid snagging",
       "tags": [
         "dark",
@@ -182,7 +223,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/brown-wrapped-pointed-new-rock-boot",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n The New Rock for Jaded Wrapped Boots have been crafted from distressed coated brown leather. The boots feature distressed leather straps, strap closure and a metal heel. \n Brown leather \n Leather wrap around strap \n Metal heel \n Heel height: 5cm \n\n  Style code: JMF7223  \n Fabric 1: Upper/Outer: Cow Leather, Fabric 2: Inner lining: Man made material, Fabric 3: Outsole: TPU, Fabric 4: Trims: Zamack \nProfessional Leather Clean Only",
       "tags": [
         "dark",
@@ -217,7 +258,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/black-cooper-pu-bootcut-jeans-1",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n \n Black Cooper PU Bootcut Jeans. \n Low rise bootcut fit \n PU faux leather \n Vintaged washed effect on front & back \n Whiskering effect on front \n Antique silver metal hardware \n Black colourway \n \n  Style code: JWL5211  \n 100% Viscose (Polyurethane Coating) \nHand Wash Separately \nLay flat to dry",
       "tags": [
         "dark",
@@ -257,7 +298,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/laura-palmer-white-t-shirt",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n \n Artworks from Twin Peaks \n 'Laura Palmer' plastisol print \n Single jersey fabric \n Ribbed neckband \n White colourway \n Regular fit \n Distressed finish \n Vintage wash \n Limited Edition \n \n Ambrose is 6 ft 1 and wears a size XS \n \n Style code: JMT7353  \n \n \n 100% Cotton \n30 Degree Machine Wash \nWash inside out \nWash with Similar Colours \nCool Iron on reverse",
       "tags": [
         "dark",
@@ -296,7 +337,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/who-killed-laura-black-t-shirt",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Artworks from Twin Peaks \n 'Laura Palmer in plastic' plastisol print \n Single jersey fabric \n Ribbed neckband \n Black colourway \n Regular fit \n Distressed finish \n Vintage wash \n Limited Edition \n \n Ambrose is 6 ft 1 and wears a size XS. \n \n Style code: JMT7349  \n \n \n 100% Cotton \n30 Degree Machine Wash \nWash inside out \nWash with Similar Colours \nCool Iron on reverse",
       "tags": [
         "dark",
@@ -335,7 +376,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/star-sash-t-shirt",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n \n Regular fit \n White and black colourway \n Star screen print \n Cotton single jersey fabric \n Soft hand feel \n Faded screen print \n Vintage wash \n \n  Style code: JMT7188  \n 50% Cotton, 50% Modal \n30 Degree Machine Wash \nWash inside out \nWash with Similar Colours \nCool Iron on reverse \nDue to the natural characteristics of the yarn some pilling may occur",
       "tags": [
         "dark",
@@ -371,7 +412,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/sent-from-heaven-t-shirt",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n \n Regular fit \n White colourway \n Linen blend slub fabric \n Soft hand feel \n Faded screen print \n \n  Style code: JMT7172  \n 80% Viscose, 20% Linen \n30 Degree Machine Wash \nWash inside out \nWash with Similar Colours \nCool Iron on reverse \nDue to the natural characteristics of the yarn some pilling may occur",
       "tags": [
         "dark",
@@ -408,7 +449,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/shredded-double-layered-top",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n \n Washed grey colourway \n Vintage wash \n Double layer construction \n Cotton single jersey fabric \n Exposed waffle underlayer fabric \n All over distressing \n Soft hand feel \n Faded screen print \n Ribbed cuffs \n Cropped oversized fit \n \n Mateen is 6 ft 1 and wears a size M. \n \n Style code: JMT6954  \n \n \n 100% Cotton, Trim: 100% Polyester. \n30 Degree Machine Wash \nWash inside out \nWash with Similar Colours \nCool Iron on reverse",
       "tags": [
         "dark",
@@ -449,7 +490,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/burgundy-printed-wilson-knit",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n \n Lightweight knit \n Faded screenprint \n Cast off hem, sleeve and neckline \n Regular fit \n True fit with slightly cropped body \n Laddered rip at back \n \n  Style code: JMKW7170  \n 100% Acrylic \nHand Wash Separately \nReshape whilst damp \nLay flat to dry \nTake care to avoid snagging",
       "tags": [
         "dark",
@@ -488,7 +529,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/double-breasted-military-knitted-hoodie",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n \n Ribbed cotton knit \n Black colourway \n Double breasted opening \n Hooded styling \n Black plastic 4 hole buttons \n Ribbed hem and cuffs \n Size up for an oversized fit \n \n  Style code: JMKW6866  \n 54% Polyester, 22% Viscose, 10% Acrylic, 10% Nylon, 3% Wool, 1% Cotton \nHand Wash Separately \nWash inside out \nReshape whilst damp \nDo not pile whilst damp \nLay flat to dry \nTake care to avoid snagging",
       "tags": [
         "dark",
@@ -527,7 +568,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/black-rib-knit-fencing-jumper",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n \n Fencing Knit Jumper \n Ribbed cotton knit \n Black colourway \n Raglan sleeve \n Fencing asymmetric opening \n Military-style buttons \n Ribbed neckband \n Cast-off hem and cuffs \n Fits close to body \n Size up for an oversized fit \n \n Mateen is 6 ft 1 and wears a size M. \n \n Style code: JMKW6781  \n \n \n 100% Cotton \nHand Wash Separately \nWash inside out \nReshape whilst damp \nDo not pile whilst damp \nLay flat to dry \nTake care to avoid snagging",
       "tags": [
         "dark",
@@ -567,7 +608,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/one-of-one-black-field-jacket",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n Reworked khaki and camo overdyed field jacket. Limited availability, each piece is unique. \n     This style was made over dying existing garments to achieve a worn and vintage look, colour and pattern will vary between garments due to the nature of the fabric, you will receive either an over-dyed camo or khaki fabric.   \n \n Black overdye \n Ripstop cotton or cotton twill fabric \n Shank button closure \n Bellowed top pockets \n Double shoulder epaulette detail \n Self fabric badge detail at arm \n Shrunken fit \n Internal back neck screen print \n \n Ambrose is 6 ft 1 and wears a size XS.   Style code: JMJK7388    \n 100% Cotton 30 Degree Machine Wash Wash inside out Colour may transfer onto other garments and upholstery When wet colour may transfer onto lighter colours Colour may fade after washing Cool Iron on reverse Do not rub isolated stains Do not pile whilst damp Avoid contact with light colours and upholstery as colour may transfer",
       "tags": [
         "dark",
@@ -613,7 +654,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/coated-trench-jacket",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n \n Double-breasted button closure \n Waxed coated fabric \n Epaulettes at shoulder \n Storm shield at back \n Double gun flap at shoulder \n Antique silver shank button detail \n Adjustable belt feature \n X4 front pocket design \n \n Mateen is 6 ft 1 and wears a size M. \n \n Style code: JMJK6881  \n \n \n Fabric: 79% cotton, 18% viscose, 3% polyester \ncoating: 100% polyurethane \nTrim 1: 50% stainless steel, 50% copper. Trim 2: 100% zinc alloy \nHand Wash Separately \nWash inside out \nReshape whilst damp \nLay flat to dry \nColour may fade after washing \nDo not rub isolated stains",
       "tags": [
         "dark",
@@ -653,7 +694,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/strap-violin-jacket",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n \n Tailored fit \n Black colourway \n Wool-blend fabric \n Double-breasted opening \n 3x faux leather front belt fastening \n Antique silver metal buckles \n Faux leather belt fastening at cuffs \n Shoulder epaulettes \n Stand collar \n Back yoke panel detail \n \n Mateen is 6 ft 1 and wears a size M. \n \n Style code: JMJK6720  \n \n \n Fabric 1: 59% Polyester, 40% Wool, 1% Acrylic, Fabric 2: 100% Polyester, Fabric 3: 100% Polyester (Coating: 100% Polyurethane) \nDry Clean Only",
       "tags": [
         "dark",
@@ -694,7 +735,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/real-leather-jude-jeans",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "100% genuine leather \n Fitted bootcut shape \n Stacks slightly at ankle \n Antique silver hardware \n Zip fly front \n \n This style runs small, we recommend sizing up. \n Mateen is 6 ft 1 and wears a size W32. \n \n Style code: JMJE7306  \n \n \n Fabric 1: 100% Lambskin, Fabric 2: 100% Polyester \nProfessional Leather Clean Only",
       "tags": [
         "fitted",
@@ -735,7 +776,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/bedrock-baggy-twisted-seam-jeans",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n \n New twisted seam baggy fit \n Twisted front and inside leg seam \n Waxed coated denim fabric \n Cinch back detail \n X4 zip back pocket detail \n Antique silver hardware \n Shank button coin pocket detail \n Heavy non-stretch denim fabric \n 3D whiskering \n \n Mateen is 6 ft 1 and wears a W32. \n \n Style code:  JMJE7120  \n \n \n Fabric 1: 95% Cotton, 5% Viscose, Fabric 2: 100% Polyrethane \nHand Wash Separately \nWash inside out \nReshape whilst damp \nLay flat to dry \nColour may fade after washing \nDo not rub isolated stains \nAvoid contact with light colours and upholstery as colour may transfer",
       "tags": [
         "dark",
@@ -775,7 +816,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/red-shine-drain-jean",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n \n Skinny 'Drain' fit \n Bright red colourway \n Hi shine coated denim \n Mid rise \n 5 pocket styling \n Non stretch rigid denim fabric \n Size up for a more relaxed fit \n \n Ambrose is 6 ft 1 and wears a size W28. \n \n Style code: JMJE7101  \n \n \n 100% Cotton \nHand Wash Separately \nDo not machine wash \nWash inside out \nLay flat to dry \nDo not rub isolated stains",
       "tags": [
         "dark",
@@ -813,7 +854,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/black-coated-drain-jeans",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n \n Our skinny 'Drain' fit \n Mid rise \n Zip teeth at waistband edge \n X3 zip detail styling \n Metal rivets \n 5 pocket styling \n Coated black denim \n Non-Stretch denim - size up for a more relaxed fit \n \n Mateen is 6 ft 1 and wears a size W32. \n \n Style code: JMJE6355  \n \n \n Fabric 1: 75% Cotton, 25% Lyocell, Fabric 2: 100% Polyurethane \nHand Wash Separately \nWash inside out \nReshape whilst damp \nLay flat to dry \nColour may fade after washing \nDo not rub isolated stains \nDo not machine wash",
       "tags": [
         "dark",
@@ -851,7 +892,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/coated-black-monster-jogger",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n \n Original baggy monster fit \n Fleece back heavy sweat fabric \n Waxed coated finish \n Elasticated draw cord waistband \n Raw edge waistband details \n Ribbed trim on curved side pockets \n Knee darts \n Raw hem finish \n Inside leg measures 79cm \n \n \n size down for a regular fit  \n \n \n Mateen is 6 ft 1 and wears a size M.   Style code: JMJ7087    \n 100% Cotton Hand Wash Separately Wash inside out Reshape whilst damp Lay flat to dry Colour may fade after washing",
       "tags": [
         "dark",
@@ -891,7 +932,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/coated-black-mini-monster-hoodie",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n \n Original mini monster fit \n Shrunken fit \n Waxed coated finish \n Raw edge waistband and cuff detail \n Zip closure \n Ribbed hem and cuffs \n \n Mateen is 6 ft 1 and wears a size M. \n \n Style code: JMH7086  \n \n \n 100% Cotton \nHand Wash Separately \nWash inside out \nReshape whilst damp \nLay flat to dry \nColour may fade after washing",
       "tags": [
         "dark",
@@ -933,7 +974,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/black-leather-triad-belt",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n \n 3 row belt \n Mixed stud detail \n Piercing detail \n Distressed black leather \n Belt length 115cm \n Adjustable buckle \n \n  Style code:  JMA7085  \n Fabric 1: 100% Cow Leather, Fabric 2: 100% Iron, Fabric 3: 100% Zinc Alloy \nProfessional Leather Clean Only",
       "tags": [
         "dark",
@@ -966,7 +1007,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/black-cropped-slim-drummer-blazer",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Slim fit \n Frogging and panelling detail \n Epaulette detail at shoulders and cuff \n Satin stripe cuff trim detail \n Single breasted \n Double hook and eye closure \n Black suiting fabric \n Fully lined \n Jet pockets with flap \n Back vent \n \n Mateen is 6 ft 1 and wears a size M. \n \n Style code: JMBL6786  \n \n \n Fabric 1: 78% Polyester, 22% Viscose, Fabric 2: 100% Polyester \nHand Wash Separately \nDo not machine wash \nReshape whilst damp \nLay flat to dry \nDry Cleanable",
       "tags": [
         "dark",
@@ -1005,7 +1046,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/black-cord-jude-jeans",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Fitted bootcut shape \n Stacks at ankle \n Cotton corduroy fabric \n Whisker wash finish \n Antique silver hardware \n Distressed hem \n \n  Style code: JMJE7018  \n 100% Cotton \n30 Degree Machine Wash \nWash inside out \nWash with Similar Colours \nColour may fade after washing \nDo not rub isolated stains \nDo not pile whilst damp \nAvoid contact with light colours and upholstery as colour may transfer",
       "tags": [
         "dark",
@@ -1051,7 +1092,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/ornate-double-breasted-military-jacket-copy",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n \n Perforated faux leather \n Black colourway \n Zip side entry pockets \n Neck tab with popper fastening \n Antique silver military buttons \n Asymmetric zip opening \n Zip pocket at sleeve \n Shoulder panel detail \n Front flap pocket \n Tab detail at front waistband \n Shoulder epaulettes \n Regular fit \n \n Mateen is 6 ft 1 and wears a size M. \n \n Style code: JMJK6882  \n \n \n Fabric 1: 80% Polyester, 20% Polyamide, Fabric 2: 100% Polyurethane, Fabric 3: 100% Polyester \nDry Clean Only",
       "tags": [
         "dark",
@@ -1092,7 +1133,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/zebra-belt",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n \n Genuine leather \n Zebra print brushed pony effect \n Antique silver hardware \n 115cm length \n \n  Style code: JMA5511  \n 100% Cow Leather (Excluding Trims) \nProfessional Leather Clean Only",
       "tags": [
         "dark",
@@ -1122,7 +1163,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/funnel-buckle-plunge-knit",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This single-layer knit features a funnel neck with a PU strap and buckle detail, an open front, and batwing long sleeves, in a black colourway. \n \n Funnel neck \n Single-layer knit \n PU strap and buckle detail at neck \n Open front \n Batwing long sleeves \n Black colourway \n \n Erika is 5 ft 8 and wears a size S. \n \n Style code: JWH5989  \n \n \n Fabric 1: 59% Polyester, 31% Nylon, 10% Wool, Fabric 2: 100% Zinc Alloy, Fabric 3: 55% Viscose, 45% Polyurethane \nHand Wash Separately \nDo not machine wash \nWash inside out \nLay flat to dry \nDue to the natural characteristics of the yarn some pilling may occur \nTake care to avoid snagging",
       "tags": [
         "dark",
@@ -1159,7 +1200,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/mist-mini-dress-with-lace-inserts-in-grey",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This semi-sheer mini dress is cut from a soft jersey fabric in dark grey. It features a twisted side seam, trimmed with contrast stretch purple lace at the neckline and hem. Adjustable-length straps provide a customizable fit. \n \n Semi sheer fabric with soft jersey hand feel \n Dark grey base colour \n Looser body fit \n Twisted side seam detail \n Central back seam detail \n Contrast stretch purple lace detail at neckline and hem \n Adjustable length straps \n Unlined \n \n Gloria is 5 ft 9 and wears a size S. \n \n Style code: JWD6554  \n \n \n Fabric 1: 79% Lyocell, 21% Wool, Fabric 2: 90% Polyamide, 10% Elastane \nHand Wash Separately \nLay flat to dry \nWash inside out \nTake care to avoid snagging \nDo not machine wash",
       "tags": [
         "dark",
@@ -1195,7 +1236,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/fena-sheer-knit-dress",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n This laddered stripe knit dress features off-shoulder styling and batwing sleeves, falling to a mini length with a ribbed skirt panel and cuffed finishes in a black colourway. \n \n Laddered stripe knit \n Off shoulder styling \n Batwing sleeves \n Mini length \n Ribbed skirt panel and cuffs \n Black colourway \n \n Isabella is 5 ft 8 and wears a size S. \n \n Style code: JWD6443  \n \n \n 100% Acrylic \nHand Wash Separately \nLay flat to dry \nTake care to avoid snagging",
       "tags": [
         "dark",
@@ -1236,7 +1277,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/linna-ruffle-sheer-knit",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n This sheer lightweight knit top features a chiffon and lace layered ruffle collar and cuffs with rouleau ties at the front. \n \n Fitted long-sleeve cardigan top \n Sheer lightweight knit fabric \n Chiffon and lace layered ruffle collar and cuffs \n Chiffon rouleau ties at front \n \n Isabella is 5 ft 8 and wears a size S.   Style code: JWH6470    \n Fabric 1: 100% Polyester, Fabric 2: 89% Viscose, 11% Polyester Hand Wash Separately Lay flat to dry Take care to avoid snagging Do not machine wash",
       "tags": [
         "dark",
@@ -1276,7 +1317,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/audrey-structured-tweed-jacket",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n This cream checked tweed blazer features deliberate fraying at the seams and a cropped, fitted jacket shape for a tailored finish. It has 3/4-length sleeves with button-fastening cuffs and a single button at the front; a matching skort and hat are available. \n \n Cream checked tweed blazer \n Fraying on seams \n Cropped, fitted jacket shape \n 3/4 length sleeves with button fastening on cuff \n Single button fastening at front \n Matching skort and hat available \n \n Isabella is 5 ft 8 and wears a size UK 8. \n \n Style code: JWJK6456  \n \n \n Fabric 1: 70% Polyester, 30% Wool, Fabric 2: 100% Polyester, Trim: 100% Alloy \nDry Clean Only \nTake care to avoid snagging",
       "tags": [
         "dark",
@@ -1316,7 +1357,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/marlo-low-rise-pu-lace-trousers",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n This low-rise trouser is crafted from black sheer lace and is finished with a black PU waistband accented by silver popper button details; it features a straight leg silhouette and an invisible side seam zip. \n \n Low-rise trousers \n Black PU waistband with silver popper button details \n Black sheer lace fabric \n Straight leg \n Invisible side seam zip \n \n Isabella is 5 ft 8 and wears a size UK 8. \n \n Style code: JWL6414  \n \n \n Fabric 1: 100% Polyester, Trim: 88% Polyester, 6% Cotton, 4% Viscose, 1% Acrylic, 1% Elastane, Fabric 2: 100% Viscose, Coating: 100% Polyurethane \nHand Wash Separately \nPlace in a laundry bag before cleaning \nLay flat to dry \nTake care to avoid snagging \nDo not machine wash",
       "tags": [
         "dark",
@@ -1353,7 +1394,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/roxie-stud-skull-thong",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This soft-touch jersey thong combines comfortable stretch with a sleek silhouette, featuring decorative studs on the waistband in different shapes, colours and sizes, and finished with a hotfix skull diamanté at the back. \n \n Soft touch jersey thong \n Decorative studs on waistband in different shapes, colours, and sizes \n Hotfix skull diamanté at back \n \n Disclaimer: this item is NON-RETURNABLE. \n Isabella is 5 ft 8 and wears a size S. \n \n Style code: JWL6610  \n \n \n Fabric 1: 94% Viscose, 6% Elastane, Fabric 2: 100% Cotton, Trim 1: 100% Alloy, Trim 2: 100% Resin \nHand Wash Separately \nLay flat to dry \nDo not machine wash",
       "tags": [
         "graphic",
@@ -1387,7 +1428,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/valou-sequin-lace-mini-skirt",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n This skirt is crafted from stretch sequin fabric with scallop metallic lace trim on the hem and an elastic picot trim along the top edge; a matching top is available. \n \n Mini length skirt \n Stretch sequin fabric \n Scallop metallic lace trim on hem \n Elastic picot trim on top edge \n Matching top available \n \n Isabella is 5 ft 8 and wears size UK 8. \n \n Style code: JWS6362  \n \n \n Fabric 1: 94% Polyester, 6% Elastane, Fabric 2: 82% Polyester, 18% Elastane, Fabric 3: 43% Viscose, 40% Polyamide, 17% Metallised Fibre. \nHand Wash Separately \nPlace in a laundry bag before cleaning \nReshape whilst damp \nLay flat to dry \nTake care to avoid snagging \nDo not machine wash",
       "tags": [
         "dark",
@@ -1424,7 +1465,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/audrey-tweed-skort",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n This cream checked tweed skort features fraying on the seams, a zip at the back, and button detailing on tabs at the sides; matching jacket and hat are available. \n \n Cream checked tweed skort \n Fraying on seams \n Zip at back of skort \n Button detailing on tabs at sides \n Matching jacket and hat available \n \n Isabella is 5 ft 8 and wears a size UK 8. \n \n Style code: JWS6457  \n \n \n Fabric 1: 70% Polyester, 30% Wool, Fabric 2: 100% Polyester, Trim: 100% Alloy \nDry Clean Only \nTake care to avoid snagging",
       "tags": [
         "dark",
@@ -1463,7 +1504,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/corine-backless-beaded-top-black",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n This soft black stretch jersey top features a longsleeve batwing design, a backless silhouette with a relaxed fit, finished with jersey fabric-strip detailing and silver beads at the back. \n \n Soft black stretch jersey fabric \n Longsleeve batwing design \n Backless silhouette \n Relaxed fit \n Jersey fabric strip detailing with silver beads at back \n \n Isabella is 5 ft 8 and wears a size UK 8 \n \n Style code: JWT6291  \n \n \n Fabric 1: 94% Viscose, 6% Elastane, Fabric 2: 100% Zinc Alloy \nHand Wash Separately \nLay flat to dry \nWash inside out \nTake care to avoid snagging \nDo not machine wash",
       "tags": [
         "dark",
@@ -1501,7 +1542,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/valou-sequin-lace-bra-top",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n This top is crafted from stretch sequin fabric and features a metallic silver lace bra with underwire cups, a metallic scalloped lace trim at the hem, power mesh lining, and adjustable straps. \n \n stretch sequin fabric \n metallic silver lace bra with underwire cups \n metallic scalloped lace trim at hem \n power mesh lining \n adjustable straps \n \n Isabella is 5 ft 8 and wears a size UK 8. \n \n Style code: JWT6361  \n \n \n Fabric 1: 94% Polyester, 6% Elastane, Fabric 2: 82% Polyester, 18% Elastane, Fabric 3: 43% Viscose, 40% Polyamide, 17% Metallised Fibre \nHand Wash Separately \nPlace in a laundry bag before cleaning \nReshape whilst damp \nLay flat to dry \nTake care to avoid snagging \nDo not machine wash",
       "tags": [
         "dark",
@@ -1539,7 +1580,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/isova-stud-angel-top",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n This sheer cami top is accented by chiffon ruffled double layered angel sleeves and a studded front with mixed studs in a dark grey colourway. \n \n Sheer fabric with soft hand feel \n Cami top shape \n Chiffon ruffled double layered angel sleeves \n Studded front with mixed studs \n Dark grey colourway \n \n Isabella is 5 ft 8 and wears a size UK 8. \n \n Style code: JWT6444  \n \n \n Fabric 1: 73% Lyocell, 22% Linen, 5% Elastane, Fabric 2: 100% Polyester, Trim 1: 100% Stainless Steel, Trim 2: 100% Copper \nHand Wash Separately \nWash inside out \nLay flat to dry \nTake care to avoid snagging \nDue to the natural characteristics of the yarn some pilling may occur \nDo not machine wash",
       "tags": [
         "dark",
@@ -1578,7 +1619,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/ralev-butterfly-stud-vest-top",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n This black stretch ribbed jersey top features placed print artwork with assorted colour stud detailing, including additional stud detailing on the neckline and armholes, and is unlined. \n \n Black stretch ribbed jersey fabric \n Placed print artwork with assorted colour stud detailing \n Assorted stud detailing on neckline and armholes \n Unlined \n \n Isabella is 5 ft 8 and wears a size UK 8. \n \n Style code: JWT6449  \n \n \n Fabric 1: 95% Cotton, 5% Elastane, Fabric 2: 100% Alloy \nHand Wash Only \nReshape whilst damp \nLay flat to dry \nWash with Similar Colours \ndo not iron \nDo not machine wash",
       "tags": [
         "dark",
@@ -1619,7 +1660,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/roxie-stud-skull-top",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This scoop-neck racer vest top is cut in a longline length from sheer black jersey and finished with decorative hotfix studs that form a skull motif. \n \n Scoop neck racer vest top \n Longline length \n Sheer black jersey \n Decorative hotfix studs \n Skull motif \n \n Isabella is 5 ft 8 and wears a size S. \n \n Style code: JWT6658  \n \n \n 73% Lyocell, 22% Linen, 5% Elastane. Trim: 100% Zinc Alloy. \nHand Wash Separately \nWash inside out \nLay flat to dry \nTake care to avoid snagging \nDue to the natural characteristics of the yarn some pilling may occur \nDo not machine wash",
       "tags": [
         "dark",
@@ -1659,7 +1700,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/lallie-stud-wedge-ballerinas-in-black",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n These black satin wedge ballerinas are finished with decorative metal studs, delicate picot trim and a decorative cord bow; the metal hardware is silver/antique silver. \n \n Ballerina heeled wedge \n Black satin fabrication \n Decorative metal studs, picot trim and cord bow \n Metal hardware is silver/antique silver \n \n  Style code: JWF6416  \n Fabric 1: Satin, Fabric 2: 93% Polyester, 7% Elastane, Fabric 3: PU leather, Fabric 4: Rubber, Fabric 5: Alloy Wipe Clean Only",
       "tags": [
         "dark",
@@ -1700,7 +1741,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/evolie-tulle-plunge-midi-dress",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n This sheer midi dress features a plunge neckline, lace trim and waistband, and a sequin-detailed skirt in black tulle. \n \n Sheer midi dress \n Plunge neckline \n Lace trim and waistband \n Sequin detail on skirt \n Black tulle fabrication \n \n Isabella is 5 ft 8 and wears a size UK 8. \n \n Style code: JWD6448  \n \n \n Fabric 1: 100% Polyester, Fabric 2: Recyclable Sequins, Fabric 3: 90% Nylon, 10% Elastane \nHand Wash Separately \nPlace in a laundry bag before cleaning \nLay flat to dry \nTake care to avoid snagging \nDo not machine wash",
       "tags": [
         "dark",
@@ -1738,7 +1779,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/winona-metallic-angel-mini-dress",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n This metallic woven mini dress in a silver colourway features lace trim applique at the neck and hem, delicate angel lace sleeve detailing, thin adjustable straps and a cowl drape at the back that leaves the design backless. \n \n Metallic woven fabric \n Lace trim applique at neck and hem \n Silver colourway \n Cowl draping at back \n Backless \n Mini dress \n Thin, adjustable, straps \n Angel lace sleeve detailing \n \n Isabella is 5 ft 8 and wears a size UK 8. \n \n Style code: JWD6431  \n \n \n 100% Polyester. Trim: 100% Polyester \nHand Wash Separately \nWash inside out \nLay flat to dry \nDo not machine wash \nTake care to avoid snagging",
       "tags": [
         "dark",
@@ -1775,7 +1816,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/6am-cut-out-bandage-maxi-dress",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n This fishtail, floor-length dress is crafted in black bandage fabrication and fastens with a zip at the skirt side seam and hook & eyes at the side straps. \n \n Cut-out maxi dress \n Fishtail floor-length skirt \n Black bandage fabrication \n Fastens with zip at skirt side seam and hook & eyes at side straps \n \n Isabella is 5 ft 8 and wears a size UK 8. \n \n Style code: JWD6426  \n \n \n 95% Polyester, 5% Elastane \nCold hand wash \nDo not machine wash \nLay flat to dry \nTake care to avoid snagging \nDo not rub isolated stains \nDry Cleanable",
       "tags": [
         "dark",
@@ -1812,7 +1853,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/reene-belted-backless-halter-dress",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n This maxi-length dress in pink jersey fabric features a plunging neckline and a halterneck with an adjustable crystal-belt strap, flowing to a low back finished with an adjustable crystal belt waist detail; two front splits add dramatic movement. \n  Must return with original packaging.  \n \n Maxi length \n Pink jersey fabric \n Low back with adjustable crystal belt waist detail \n Plunge neckline \n Halter neck with adjustable crystal belt strap \n Front leg split \n \n Isabella is 5 ft 8 and wears a UK 8.   Style code: JWD6339    \n Fabric: 94% Viscose, 6% Elastane. Trim 1: 100% Copper. Trim 2: 100% Glass Dry Clean Only Take care to avoid snagging",
       "tags": [
         "dark"
@@ -1848,7 +1889,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/serafine-pu-leather-disc-bag",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n This slouchy black faux leather handbag features a disc-scale textured outer and a twisted faux-leather strap handle, with a woven lining and an interior pocket. Gunmetal trims include a hanging chain with an angel-wings charm, while faux-leather strapping with silver decorative beads adds decorative detailing. \n \n Faux leather outer fabric \n Faux leather disc scale fabric \n Faux leather handle with twisted strapping \n Woven lining fabric \n Black colourway \n Gunmetal hanging chain with angel wings charm \n Faux leather strapping with silver decorative beads \n Magnetic popper closure with gunmetal skull head rivet \n Slouchy shape \n Interior pocket \n Height x Length x Width: 18cm x 40cm x 12.5cm \n \n  Style code: JWA6185  \n Fabric: 100% Polyester, Lining: 100% Polyester. Trim 1: 100% Zinc Alloy. Trim 2: 100% Iron. Trim 3: 100% Polyurethane Coating \nWipe Clean Only",
       "tags": [
         "dark",
@@ -1891,7 +1932,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/kelsey-low-rise-slim-fit-bootcut-jeans",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n These low-rise, slim-fit bootcut jeans are crafted from stretch denim in a mid-blue wash, featuring classic 5-pocket styling and decorative off-white colour lace panelling at the front fly and back yoke, accented with rhinestones. Assorted colour stud detailing at the front pockets adds playful contrast to the refined silhouette. \n \n Low-rise fit \n Bootcut leg \n Slim fit \n Stretch denim fabric \n 5-pocket styling \n Mid-blue wash \n Off-white colour lace panelling at front fly and back yoke with hotfix rhinestones \n Assorted colour stud detailing at front pockets \n \n Isabella is 5 ft 8 and wears a size W26.   Style code: JWL6438    \n Fabric 1: 49% Cotton, 33% Polyester, 13% Viscose, 4% Lyocell, 1% Elastane, Fabric 2: 100% Plastic, Fabric 3: 100% Zinc Alloy Hand Wash Separately Wash inside out Lay flat to dry Avoid contact with light colours and upholstery as colour may transfer",
       "tags": [
         "dark",
@@ -1934,7 +1975,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/tori-distressed-camo-straight-leg-jeans",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n This mid wash, low-rise bootcut jean is detailed with exposed camo inserts behind distressed rips and finished with antique silver metal hardware and studs on the front and back. \n \n Low rise bootcut jeans \n Distressed rips with exposed camo inserts on front and back of jeans \n Antique silver metal hardware / studs \n \n Isabella is 5 ft 8 and wears a size W26. \n \n Style code: JWL6338  \n \n \n Fabric 1: 100% Cotton, Fabric 2: 90% Polyester, 10% Cotton \nHand Wash Separately \nWash inside out \nLay flat to dry \nColour may fade after washing \nAvoid contact with light colours and upholstery as colour may transfer \nDo not rub isolated stains \nDo not machine wash",
       "tags": [
         "dark",
@@ -1977,7 +2018,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/serafine-pu-leather-disc-racer-top",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This black crochet top is adorned with black PU discs all over, features open sides with a narrow back strap and a slouchy fit. \n \n Black crochet top \n Black PU discs all over \n Open sides \n Racer back \n Slouchy fit \n \n Isabella is 5 ft 8 and wears a size S. \n \n Style code: JWT6183  \n \n \n Fabric: 100% Acrylic, Trim: 55% Polyester, 45% Polyurethane \nSpot Clean Only \nTake care to avoid snagging",
       "tags": [
         "dark"
@@ -2015,7 +2056,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/astoria-lace-bra-top",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This bralette-style lace top is crafted in black lightweight lace with leopard-print cups finished with a bow detail. Adjustable bra straps and a hook-and-eye fastening provide a secure yet stylish fit, while the decorative outer frill with a raw-edge finish lends a luxurious, refined touch. \n \n Bralette style top \n Black lightweight lace fabric \n Leopard print cups with bow detail \n Adjustable bra strap \n Hook and eye fastening \n Decorative outer frill with raw edge finish \n \n Isabella is 5 ft 8 and wears a size UK 8. \n \n Style code: JWT3834  \n \n \n Fabric 1: 90% Polyamide, 10% Elastane, Fabric 2: 100% Polyester \n30 Degree Machine Wash \nLay flat to dry",
       "tags": [
         "dark",
@@ -2061,7 +2102,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/frame-burgundy-cropped-t-shirt",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Burgundy colourway \n Faded wash \n Cotton single jersey fabric \n Distressed finish \n Soft hand feel \n Faded screen print \n Cropped oversized fit \n \n Ambrose is 6 ft 1 and wears a size M. \n \n Style code: JMT7211  \n \n \n 100% Cotton \n30 Degree Machine Wash \nWash inside out \nWash with Similar Colours \nCool Iron on reverse",
       "tags": [
         "distress",
@@ -2097,7 +2138,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/tiger-denim-hot-pants",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Tiger Denim Hot Pants  \n \n Stretch denim \n All over tiger print \n Heavy vintage wash \n Faux suede cord with metal eyelets lace up at front \n Frayed finish on waistband and hem \n 4 pockets \n Antique brass hardware \n \n\n Model is 5 ft 9 and wears a size W26 \n  Style code: JWL4346  \n 97% Cotton, 3% Elastane 30 Degree Machine Wash Wash inside out Lay flat to dry Cool Iron on reverse Wash dark colours separately",
       "tags": [
         "mesh",
@@ -2135,7 +2176,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/leni-low-rise-flare-jeans-in-dust",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "These bootcut jeans are made from rigid denim in a light-mid blue wash with brown ombre for a flattering, sculpted fit. Designed with a low-rise waist and classic bootcut leg, they feature brown faux leather pockets and antique silver metal hardware. \n \n Light blue wash with brown ombre wash at hems \n Low-rise fit \n Bootcut leg \n \n Rigid denim fabric \n Brown faux leather pocket and belt loop details \n Antique silver metal hardware \n \n Model is 5 ft 10 and wears a size W26 \n Style code:   JWL6190  \n 39% Cotton, 31% Polyester, 28% Viscose, 1% Acrylic, 1% Nylon. \n \n Hand Wash Separately \n Wash inside out \n Reshape whilst damp \n Lay flat to dry \n Not machine washable \n \n This garment has undergone a special process which results in variations of shading and colours. Colour may fade and transfer on light coloured clothing and furnishings. Do not use biological detergents. Wash on low spin cycle.",
       "tags": [
         "denim",
@@ -2171,7 +2212,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/grey-marl-cropped-monster-joggers-womens",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "These Cropped Monster Joggers feature a cropped oversized Colossus fit in loopback fabric for a comfortable, structured silhouette. An elasticated drawcord waistband and raw-edge waistband detailing provide a relaxed fit, while ribbed trim on curved side pockets and knee darts add subtle shaping. \n\n \n Loopback fabric \n \n Cropped oversized colossus fit\n \n Elasticated draw cord waistband \n Raw edge waistband details \n Ribbed trim on curved side pockets \n \nKnee darts \n \n 70% cotton, 30% polyester \n \n Alyson is 5 ft 9 and wears a size Small   Style code: JWL5804  \n 30 Degree Machine Wash Cool Iron on reverse Lay flat to dry Wash inside out Wash with Similar Colours",
       "tags": [
         "dark",
@@ -2207,7 +2248,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/odile-brown-faux-leather-lace-up-corset",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Faux washed leather longline halter corset with eyelet and lace up details.  \n \n Washed Faux brown Leather \n Zip fastening at back \n Eyelets and faux suede cord lace up details across sides and front \n Eyelet detail across neckline \n Princess seams for shaping \n Detachable halter neck strap \n \n Model is 5 ft 9 and wears a size UK 8 \n  Style code: JWT4915  \n 100% Viscose (Polyurethane Coating) Lining: 70% Cotton, 30% Polyester Wipe Clean",
       "tags": [
         "dark",
@@ -2251,7 +2292,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/navy-waffle-henley",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Navy colourway \n Vintage wash \n Long sleeve tight fit \n Full length \n Button up henley neckband \n \n Ambrose is 6 ft 1 and wears a size M. \n \n style code: JMT7114  \n \n \n 100% Cotton \n30 Degree Machine Wash \nWash with Similar Colours \nWash inside out \nReshape whilst damp \nAvoid contact with light colours and upholstery as colour may transfer \nDo not rub isolated stains",
       "tags": [
         "knit",
@@ -2288,7 +2329,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/teal-diamante-hardcore-joggers-ww",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This original baggy \"monster\" jogger is crafted from loopback sweat fabric in a blue colourway and features a Hardcore screen print with mixed hot-fix stud detailing. It has an elasticated drawcord waistband with a raw-edge finish, ribbed trim on curved side pockets and a raw hem finish; the inside leg measures 79 cm. \n \n Original baggy monster jogger fit \n Loopback sweat fabric \n Blue colourway \n Hardcore screen print \n Mixed hot-fix stud detailing \n Elasticated drawcord waistband with raw-edge finish \n Ribbed trim on curved side pockets \n Raw hem finish \n Inside leg: 79 cm \n \n Carli is 5 ft 9 and wears a size S. \n \n Style code: JMJ7169  \n \n \n Fabric 1: 100% Cotton, Fabric 2: 100% Glass \nHand Wash Separately \nDo not machine wash \nWash inside out \nWash with Similar Colours \nAvoid contact with light colours and upholstery as colour may transfer \nColour may fade after washing \nLay flat to dry \nReshape whilst damp",
       "tags": [
         "fitted",
@@ -2330,7 +2371,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/teal-diamante-hardcore-joggers",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Super oversized Colossus fit \n Black colourway \n Loopback sweat fabric \n \n Elasticated drawcord waistband with raw edge finish \n Ribbed trim on curved side pockets \n Raw hem finish \n Hardcore screen print \n Inside leg measures 79 cm \n \n 100% Cotton.  \n Calvin is 6 ft 1 and wears a size XS \n  Style code: J MJ7169   \n \n Hand Wash Separately \n Wash inside out \n Wash with Similar Colours \n Avoid contact with light colours and upholstery as colour may transfer \n Colour may fade after washing \n Lay flat to dry \n Reshape whilst damp \n \n This garment has been dyed to achieve a unique effect. Due to this finish, the colour may fade after washing and transfer onto light coloured garments and upholstery.",
       "tags": [
         "dark",
@@ -2375,7 +2416,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/moth-bitten-straight-leg-jeans",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This low-rise, loose straight-leg denim jean is cut for a relaxed, straight fit and finished in a mid blue distressed wash, with distressed detailing and antique silver metal hardware. \n \n Low-rise loose straight leg fit \n mid blue wash \n distressed detailing \n antique silver metal hardware \n \n Carli is 5 ft 9 and wears a size W26. \n \n Style code: JWL6557  \n \n \n 96% Cotton, 2% Polyester, 1% Viscose, 1% Lyocell \n30 Degree Machine Wash \nWash with Similar Colours \nWash inside out \nColour may transfer onto other garments and upholstery \nWhen wet colour may transfer onto lighter colours \nColour may fade after washing \nDo not rub isolated stains \nDo not pile whilst damp",
       "tags": [
         "distress",
@@ -2409,7 +2450,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/grey-shiny-washed-xl-colossus-jean",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Original XL Colossus fit \n Super baggy silhouette \n Silver metallic colourway \n Twill denim with \"shiny\" metallic effect \n Whiskering wash \n 5 pocket styling \n \n Ambrose is 6 ft 1 and wears a size W28. \n \n Style code: JMJE6439  \n \n \n 66% Cotton, 34% Polyester \n30 Degree Machine Wash \nWash inside out \nWash with Similar Colours \nColour may fade after washing \nDo not rub isolated stains \nDo not pile whilst damp \nAvoid contact with light colours and upholstery as colour may transfer",
       "tags": [
         "dark",
@@ -2444,7 +2485,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/khaki-military-straight-leg-trouser",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Loose fit cargo pant \n Low rise \n Vintage cotton fabric \n Khaki colourway \n Front and back patch pockets \n Button closure \n Zip fly \n \n Ambrose is 6 ft 1 and wears a size W28. \n \n Style code: JMP6990  \n \n \n 100% Cotton \n30 Degree Machine Wash \nWash with Similar Colours \nWash inside out \nDo not rub isolated stains \nDo not pile whilst damp \nAvoid contact with light colours and upholstery as colour may transfer",
       "tags": [
         "silver"
@@ -2476,7 +2517,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/azurae-purple-studded-backless-top",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This purple jersey top features a slouchy fit and an open-back design, secured with tie straps at the back top edge and at the hem, and finished with silver stud detailing along the neckline. \n \n Purple jersey fabric \n Slouchy fit \n Open-back design \n Tie straps at back top edge and hem \n Silver stud detailing at neckline \n \n Gloria is 5 ft 9 and wears a size M \n \n Style code: JWT6518  \n \n \n Fabric 1: 94% Viscose, 6% Elastane, Fabric 2: 100% Zinc Alloy, Fabric 3: 100% Resin \nHand Wash Separately \nLay flat to dry \nWash inside out \nDo not machine wash \nTake care to avoid snagging",
       "tags": [
         "silver"
@@ -2511,7 +2552,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/bolted-stud-shearling-boots-in-purple",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n This boot is crafted from cow suede with a shearling lining for a soft finish, cut in a mid calf height for a bold, statement silhouette. Antique silver decorative studs add directional, hardware-driven detail. \n \n Shearling lined cow suede boot \n Mid calf height \n Antique silver decorative studs \n Branded back heel label \n 3cm EVA sole \n \n  Style code: JWF6710 THIS PRODUCT HAS BEEN DESIGNED FOR UNISEX. STANDARD FIT, ORDER YOUR USUAL SIZE.  \n Upper: Cow Suede Leather Lining: Genuine Shearling Fur Outsole: EVA. Dust Bag: 65% Polyester, 35% Cotton. Professional Leather Clean Only",
       "tags": [
         "dark",
@@ -2546,7 +2587,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/black-diamante-hardcore-joggers-ww",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This jogger embraces the original baggy monster jogger fit and is cut from loopback sweat fabric in a Black colourway. It features a Hardcore screen print with mixed hot-fix stud detailing, an elasticated drawcord waistband with a raw-edge finish, ribbed trim on curved side pockets and a raw hem finish. \n \n Original baggy monster jogger fit \n Loopback sweat fabric \n Black colourway \n Hardcore screen print \n Mixed hot-fix stud detailing \n Elasticated drawcord with raw-edge finish \n Ribbed trim on curved side pockets \n Raw hem finish \n Inside leg: 79 cm \n \n Carli is 5 ft 10 and wears a size XS. \n \n Style code: JMJ7214  \n \n \n Fabric 1: 100% Cotton, Fabric 2: 100% Glass \nHand Wash Separately \nDo not machine wash \nWash inside out \nWash with Similar Colours \nAvoid contact with light colours and upholstery as colour may transfer \nColour may fade after washing \nLay flat to dry \nReshape whilst damp",
       "tags": [
         "dark",
@@ -2589,7 +2630,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/black-diamante-hardcore-joggers",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Black Hardcore Jewel Monster Joggers \n Original baggy monster jogger fit \n Loopback sweat fabric \n Black colourway \n Hardcore screen print \n Mixed hot-fix stud detailing \n Elasticated drawcord waistband with raw-edge finish \n Ribbed trim on curved side pockets \n Raw hem finish \n Inside leg: 79 cm \n \n Calvin is 6 ft 1 and wears a size M. \n \n Style code: JMJ7214  \n \n \n Fabric 1: 100% Cotton, Fabric 2: 100% Glass \nHand Wash Separately \nDo not machine wash \nWash inside out \nWash with Similar Colours \nAvoid contact with light colours and upholstery as colour may transfer \nColour may fade after washing \nLay flat to dry \nReshape whilst damp",
       "tags": [
         "dark",
@@ -2637,7 +2678,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/printed-graffiti-indigo-colossus-jeans",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Original Colossus fit \n Heavy non-stretch raw indigo denim \n Mixed screen print and embroidered artwork \n Tobacco stitching \n \n Ambrose is 6 ft 1 and wears a size W28. \n \n Style code: JMJE7032  \n \n \n 98% Cotton, 2% Viscose \nHand Wash Separately \nWash inside out \nDo not machine wash \nColour may fade after washing \nCool Iron on reverse \nDo not rub isolated stains \nDo not pile whilst damp \nAvoid contact with light colours and upholstery as colour may transfer",
       "tags": [
         "denim",
@@ -2675,7 +2716,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/satin-and-lace-triangle-bikini-top",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n This standard triangle fit piece is rendered in a satin-look hot pink polyester elastane fabric with contrast black stretch lace edging and contrast black halterneck and chest ties; it is fully lined and pairs with available bikini bottoms. \n \n Standard triangle fit \n Satin-look hot pink polyester elastane fabric \n Contrast black stretch lace edging \n Contrast black halterneck and chest ties \n Fully lined \n Bikini bottoms available \n \n Laura is 5 ft 10 and wears a size S. \n \n Style code: JSBT6471  \n \n \n Fabric 1: 95% Polyester, 5% Elastane, Fabric 2: 88% Polyester, 12% Elastane, Fabric 3: 100% Polyester \nHand Wash Separately \nA Degree of Colour Change may occur with Constant Exposure to Sun and Chlorinated Water \nRinse Thoroughly After Use",
       "tags": [
         "dark",
@@ -2709,7 +2750,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/satin-and-lace-bikini-bottom-shorts",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n This pair of ruched hotpant shorts is crafted from satin-look hot pink polyester elastane fabric, trimmed with contrast black stretch lace edging and fitted with contrast black hip ties; fully lined and available with a matching bikini top. \n \n Ruched hotpant shorts \n Satin-look hot pink polyester elastane fabric \n Contrast black stretch lace edging \n Contrast black hip ties \n Fully lined \n Bikini top available \n \n Laura  is 5 ft 10 and wears a size S. \n \n Style code: JSBB6472  \n \n \n Fabric 1: 95% Polyester, 5% Elastane, Fabric 2: 88% Polyester, 12% Elastane, Fabric 3: 100% Polyester \nHand wash separately \nA degree of colour change may occur with constant exposure to sun and chlorinated water \nRinse thoroughly after use",
       "tags": [
         "dark",
@@ -2746,7 +2787,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/tie-side-lace-bikini-bottoms",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n This low-waist bikini bottom features tie sides for an adjustable fit, delicate frill lettuce edging and stretch lace fabric. Fully lined in a contrast nude colour for comfort and coverage, it pairs with the matching bikini top. \n \n Low-waist bikini bottoms \n Tie sides for adjustable fit \n Frill lettuce edging \n Stretch lace fabric \n Fully lined in contrast nude colour \n Matching bikini top available \n \n Laura is 5 ft 10 and wears a size S. \n \n Style code: JSBB6490  \n \n \n Fabric 1: 92% Polyamide, 8% Elastane, Fabric 2: 95% Polyester, 5% Elastane \nHand Wash Separately \ndo not wring \nLay flat to dry \nA Degree of Colour Change may occur with Constant Exposure to Sun and Chlorinated Water \nRinse Thoroughly After Use",
       "tags": [
         "dark",
@@ -2783,7 +2824,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/lace-cup-bikini-top",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n This satin-look gold bikini top is shaped for support and feminine allure: underwired cups with padding, a black lace lingerie-look applique, adjustable shoulder straps and a metal swimwear clasp at the back, with matching bikini bottoms available. \n \n Satin-look gold polyester elastane fabric \n Underwired cups \n Removable padding \n Black lace lingerie-look applique \n Adjustable shoulder straps \n Metal swimwear clasp at back fastening \n Matching bikini bottoms available \n \n Laura is 5 ft 10 and wears a size S.   Style code: JSBT6254    \n Fabric 1: 100% Polyester, Fabric 2: 96% Polyester, 4% Elastane, Fabric 3: 88% Polyester, 12% Elastane Hand wash separately Lay flat to dry Take care to avoid snagging A degree of colour change may occur with constant exposure to sun and chlorinated water Rinse thoroughly after use",
       "tags": [
         "dark",
@@ -2819,7 +2860,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/lace-bikini-bottoms",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n This satin-look gold swim fabric offers a luminous sheen with gentle stretch, while a black lace applique adds a lingerie-inspired finish. Fully lined for comfort, the piece features adjustable straps for a tailored fit, and a matching bikini top is available. \n \n Satin-look gold polyester elastane fabric \n Adjustable strap adjusters \n Black lace lingerie-look applique \n Fully lined \n Matching bikini top available \n \n Laura is 5 ft 10 and wears a size S. \n \n Style code: JSBB6257  \n \n \n Fabric 1: 100% Polyester, Fabric 2: 96% Polyester, 4% Elastane, Fabric 3: 88% Polyester, 12% Elastane \nHand Wash Separately \nLay flat to dry \nTake care to avoid snagging \nA Degree of Colour Change may occur with Constant Exposure to Sun and Chlorinated Water \nRinse Thoroughly After Use",
       "tags": [
         "dark",
@@ -2853,7 +2894,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/ismeria-bikini-top-in-zebra-sequin",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n This fixed cup triangle top features a monochrome zebra print and is enhanced with all-over sequin embellishment and cobalt blue stretch lace appliqué; it is fully lined and offered with matching bikini bottoms. \n \n Fixed standard triangle fit, non adjustable \n Polyamide elastane swim fabric \n Monochrome zebra print \n All-over sequin embellishment \n Cobalt blue stretch lace appliqué \n Fully lined \n Matching bikini bottoms available \n \n Laura is 5 ft 10 and wears a size S. \n \n Style code: JSBT6528  \n \n \n Fabric 1: 90% Polyester, 10% Elastane, Fabric 2: 90% Nylon, 10% Elastane, Fabric 3: 100% Recycled Sequins \nHand Wash Separately \nDo not machine wash \nA Degree of Colour Change may occur with Constant Exposure to Sun and Chlorinated Water \nLay flat to dry",
       "tags": [
         "dark",
@@ -2890,7 +2931,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/ismeria-bikini-bottoms-zebra-sequin",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n This low-waist bikini bottom is crafted from polyamide-elastane swim fabric and showcases a monochrome zebra print enriched with all-over sequin embellishment and a cobalt blue stretch lace appliqué. Fully lined for comfort, it pairs with a matching bikini top. \n \n Low-waist bikini bottoms \n Polyamide elastane swim fabric \n Monochrome zebra print \n All-over sequin embellishment \n Cobalt blue stretch lace appliqué \n Fully lined \n Matching bikini top available \n \n Laura is 5 ft 10 and wears a size S. \n \n Style code: Product Code: JSBB6529  \n \n \n Fabric 1: 90% Polyester, 10% Elastane, Fabric 2: 90% Nylon, 10% Elastane, Fabric 3: 100% Recycled Sequins \nHand Wash Separately \nDo not machine wash \nA Degree of Colour Change may occur with Constant Exposure to Sun and Chlorinated Water \nLay flat to dry",
       "tags": [
         "dark",
@@ -2927,7 +2968,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/halterneck-lace-bikini-top-in-purple",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Excluded from our Black Friday promotion.  \n This tie-back design offers an adjustable fit, with delicate frill lettuce edging and stretch lace fabric, fully lined in a contrast nude colour for comfort and coverage; matching bikini bottoms are available. \n \n Tie back for adjustable fit \n Frill lettuce edging \n Stretch lace fabric \n Fully lined in contrast nude colour \n Matching bikini bottoms available \n \n Laura is 5 ft 10 and wears a size S. \n \n Style code: JSBT6489  \n \n \n Fabric 1: 92% Polyamide, 8% Elastane, Fabric 2: 95% Polyester, 5% Elastane \nHand Wash Separately \nDo not wring \nLay flat to dry \nA Degree of Colour Change may occur with Constant Exposure to Sun and Chlorinated Water \nRinse Thoroughly After Use",
       "tags": [
         "dark",
@@ -2964,7 +3005,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/fencing-asymmetric-jacket-1",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This shrunken-fit cotton canvas jacket features a vintage wash and a fully lined interior for comfortable wear. It fastens with an asymmetric double-breasted opening and button closure, and is detailed with buttoned cuffs and antique silver hardware — size up for a regular fit. \n \n Shrunken fit \n Size up for regular fit \n Cotton canvas fabric \n Vintage wash \n Fully lined \n Asymmetric double-breasted opening \n Button closure \n Button detail at cuff \n Antique silver hardware \n \n Gloria is 5 ft 9 and wears a size XS. \n \n Style code: JMJK6721  \n \n \n Fabric 1: 100% Cotton, Fabric 2: 100% Polyester, Fabric 3: 100% Zinc Alloy \n30 Degree Machine Wash \nWash inside out \nWash with Similar Colours \nColour may fade after washing \nDo not rub isolated stains \nDo not pile whilst damp \nAvoid contact with light colours and upholstery as colour may transfer",
       "tags": [
         "silver"
@@ -3000,7 +3041,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/fencing-asymmetric-jacket",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Shrunken fit \n Size up for regular fit \n Cotton canvas fabric \n Vintage wash \n Asymmetric double breasted opening \n Button closure \n Button detail at cuff \n Fully lined \n Antique silver hardware \n \n    Style code:  JMJK6721      \n   Model is 5 ft 10 and wears a size XS   \n   100% Cotton. Lining: 100% Polyester. Trim: 100% zinc alloy    \n 30 Degree Machine Wash Wash inside out Wash with Similar Colours Colour may fade after washing Do not rub isolated stains Do not pile whilst damp Avoid contact with light colours and upholstery as colour may transfer",
       "tags": [
         "silver"
@@ -3037,7 +3078,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/pleasure-pink-cropped-t-shirt",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Pink colourway \n Faded wash \n Cotton single jersey fabric \n Distressed finish \n Soft hand feel \n Faded screen print \n Cropped oversized fit \n \n Ambrose is 6 ft 1 and wears a size XS. \n \n Style code: JMT7151  \n \n \n 100% Cotton \n30 Degree Machine Wash \nWash inside out \nWash with Similar Colours \nCool Iron on reverse",
       "tags": [
         "distress",
@@ -3074,7 +3115,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/brown-leather-oval-buckle-belt",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Oval belt buckle in antique silver \n Distressed brown leather \n Belt length 115cm \n Adjustable buckle \n \n  Style code: JMA7130  \n Fabric 1: 100% Cow Leather, Fabric 2: 100% Zinc Alloy \nProfessional Leather Clean Only",
       "tags": [
         "distress",
@@ -3106,7 +3147,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/black-boxer-colossus-jeans",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Colossus jean fit \n Washed black colourway \n Heavy non-stretch denim fabric \n All-over rips \n Exposed check boxer fabric \n Distressed finish \n Stud detailing \n 5-pocket styling \n Zip fly fastening \n Antique silver hardware \n \n Ambrose is 6 ft 1 and wears a size W28. \n \n Style code: JMJE7310  \n \n \n Fabric 1: 100% Cotton, Fabric 2: 100% Cotton \n30 Degree Machine Wash \nWash with Similar Colours \nColour may transfer onto other garments and upholstery \nWhen wet colour may transfer onto lighter colours \nColour may fade after washing \nDo not rub isolated stains \nDo not pile whilst damp",
       "tags": [
         "dark",
@@ -3149,7 +3190,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/knitted-cadet-cap",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "All over knit \n Cotton yarn \n Black colourway \n Shallow peak \n \n  Style code: JMA7248  \n 100% Acrylic \nHand Wash Separately \nlay flat to dry \nWash inside out",
       "tags": [
         "dark",
@@ -3182,7 +3223,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/brown-scripture-cropped-long-sleeve-top",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Brown Scripture Cropped Long Sleeve Top \n Brown colourway \n Vintage wash \n Cotton single jersey fabric \n Distressed finish \n Soft hand feel \n Faded screen print \n Cropped oversized fit \n \n Ambrose is 6 ft 1 and wears a size XS. \n \n Style code: JMT7314  \n \n \n 100% Cotton \n30 Degree Machine Wash \nWash inside out \nWash with Similar Colours \nCool Iron on reverse",
       "tags": [
         "distress",
@@ -3220,7 +3261,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/charcoal-leopard-monster-hoodie-2",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Baggy fit \n Fleeceback sweat fabric \n Garment dyed charcoal leopard print colourway \n Rib trim kangaroo pockets \n Double ended zip \n \n Calvin is 6 ft 1 and wears a size M. \n \n Style code: JMH7047  \n \n \n 95% Cotton, 5% Polyester \n30 Degree Machine Wash \nCool Iron on reverse \nWash inside out \nWash with similar colours",
       "tags": [
         "dark",
@@ -3264,7 +3305,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/charcoal-leopard-monster-hoodie-3",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This relaxed baggy-fit sweatshirt is crafted from fleeceback sweat fabric and finished in a garment-dyed charcoal leopard print colourway. Rib trim frames the kangaroo pockets and a double ended zip adds versatile wear. \n \n Baggy fit \n Fleeceback sweat fabric \n Garment dyed charcoal leopard print colourway \n Rib trim kangaroo pockets \n Double ended zip \n \n Lais is 5 ft 10 and wears a size S. \n \n Style code: JMH7047  \n \n \n 95% Cotton, 5% Polyester \n30 Degree Machine Wash \nCool Iron on reverse \nWash inside out \nWash with similar colours",
       "tags": [
         "dark",
@@ -3298,7 +3339,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/grey-marl-stud-monster-hoodie",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Oversized fit \n Grey marl colourway \n LDN hot-fix stud artwork \n Distressed finish \n Loopback sweat fabric \n Kangaroo pocket \n Raw edge waistband details \n Ribbed cuffs and hem band \n \n Ian is 6 ft 1 and wears a size M. \n \n Style code: JMH7331  \n \n \n Fabric 1: 73% Cotton, 27% Polyester, Fabric 2: Trim: 100% Metal \nHand Wash Separately \nWash inside out \nLay flat to dry \nReshape whilst damp \nDo not machine wash",
       "tags": [
         "dark",
@@ -3336,7 +3377,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/grey-marl-stud-monster-hoodie-1",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This oversized hoodie in a grey marl colourway features LDN hot fix stud artwork and a distressed finish. Made from loopback sweat fabric, it has a kangaroo pocket, raw edge waistband details, and ribbed cuffs and hemband. \n \n Oversized fit \n Grey marl colourway \n LDN hot fix stud artwork \n Distressed finish \n Loopback sweat fabric \n Kangaroo pocket \n Raw edge waistband details \n Ribbed cuffs and hemband \n \n Model is 5 ft 9 and wears a size XS. \n \n Style code: JMH7331  \n \n \n Fabric 1: 73% Cotton, 27% Polyester, Fabric 2: 100% Metal \nHand Wash Separately \nWash inside out \nLay flat to dry \nReshape whilst damp \nDo not machine wash",
       "tags": [
         "dark",
@@ -3375,7 +3416,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/sita-studded-capri-trousers",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Grey marl jersey low-rise capri trousers with shiny silver stud detail.  \n \n \n \n Capri trousers \n \n \n \n Low-rise  \n \n   Shiny silver stud detail  \n   Grey marl stretch jersey  \n   Co-ordinating skort and top available  \n \n Model is 5 ft 9 and wears a size UK 8 \n  Style code:    JWL5514    \n 95% viscose, 5% elastane. Trim: 100% brass Hand Wash Separately Lay flat to dry Wash inside out Do not iron",
       "tags": [
         "dark",
@@ -3410,7 +3451,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/black-baggy-cuffed-monster-joggers",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Original Monster jogger fit \n Elasticated cuff hem \n Raw edge detail at waistband \n Baggy low rise fit \n Black premium fleece back sweat fabric \n Washed finish \n \n Model is 6 ft 1 and wears a size M. \n \n Style code: JMJ7105  \n \n \n 100% Cotton \n30 Degree Machine Wash \nWash inside out \nWash with Similar Colours \nCool Iron on reverse",
       "tags": [
         "dark",
@@ -3446,7 +3487,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/black-baggy-cuffed-monster-joggers-1",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This washed black cuffed Monster jogger updates the original Monster fit with a baggy, low rise silhouette, elasticated cuff hem and a raw-edge waistband for lived-in character, crafted from black premium fleece-back sweat fabric with a washed finish. \n \n Original Monster jogger fit \n Elasticated cuff hem \n Raw edge detail at waistband \n Baggy low rise fit \n Black premium fleece back sweat fabric \n Washed finish \n \n *This garment has undergone a special dyeing process which results in variations of shading and colour* \n Model is 5 ft 9 and wears a size XS. \n \n Style code: JMJ7105  \n \n \n 100% Cotton \n30 Degree Machine Wash \nWash inside out \nWash with Similar Colours \nCool Iron on reverse",
       "tags": [
         "dark",
@@ -3479,7 +3520,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/washed-black-blade-jogger",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "The Black Blade Joggers are crafted from a fleece back heavy sweat fabric, with a vintage wash and elasticated draw cord waistband and tailored in an oversized Monster fit. \n \n Original baggy monster fit \n Fleeceback sweat fabric \n Black colourway \n Elasticated waist \n Raw hem finish \n Rib trim side pockets \n Metallic screenprint tattoo design \n Vintage wash finish \n \n Model is 6 ft 1 and wears a size M. \n \n Style code: JMJ7045  \n \n \n 100% Cotton \n30 Degree Machine Wash \nWash inside out \nWash with Similar Colours \nCool Iron on reverse",
       "tags": [
         "dark",
@@ -3514,7 +3555,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/washed-black-blade-jogger-1",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This pair of Black Blade Joggers is crafted from a fleece back heavy sweat fabric with a vintage wash, tailored in an oversized Monster fit and finished with an elasticated draw cord waistband. Design details include a raw hem, rib-trim side pockets and a metallic screenprint tattoo motif, while the original baggy monster fit and black colourway complete the look. \n \n Original baggy monster fit \n Fleeceback sweat fabric \n Black colourway \n Elasticated waist \n Raw hem finish \n Rib trim side pockets \n Metallic screenprint tattoo design \n Vintage wash finish \n \n Model is 5 ft 9 and wears a size XS. \n \n Style code: JMJ7045  \n \n \n 100% Cotton \n30 Degree Machine Wash \nWash inside out \nWash with Similar Colours \nCool Iron on reverse",
       "tags": [
         "dark",
@@ -3549,7 +3590,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/star-applique-grey-marl-monster-joggers-ww",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This jogger combines applique star detail, a super oversized colossus fit and fleece back heavy sweat fabric with a vintage wash; it features an elasticated draw cord waistband with raw edge waistband details, ribbed trim on curved side pockets, knee darts and a raw hem finish. \n \n Applique star detail \n Super oversized colossus fit \n Fleece back heavy sweat fabric \n Vintage wash \n Elasticated draw cord waistband \n Raw edge waistband details \n Ribbed trim on curved side pockets \n Knee darts \n Raw hem finish \n \n Model is 5 ft 9 and wears a size S. \n \n Style code: JMJ7100  \n \n \n 95% Cotton, 5% Polyester \n30 Degree Machine Wash \nCool Iron on reverse \nWash inside out \nWash with Similar Colours",
       "tags": [
         "dark",
@@ -3587,7 +3628,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/charcoal-leopard-monster-jogger",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Original baggy monster fit \n Fleeceback sweat fabric \n Garment dyed charcoal leopard print colourway \n Elasticated waist \n Raw hem finish \n Rib trim side pockets \n Inside leg measures 79 cm \n \n Model is 6 ft 1 and wears a size M. \n \n Style code: JMJ7044  \n \n \n 95% Cotton, 5% Polyester \n30 Degree Machine Wash \nWash inside out \nWash with Similar Colours \nCool Iron on reverse",
       "tags": [
         "dark",
@@ -3627,7 +3668,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/charcoal-leopard-monster-jogger-1",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This original baggy monster fit jogger is crafted from fleeceback sweat fabric and garment-dyed in a charcoal leopard print colourway; it features an elasticated waist, rib-trim side pockets and a raw hem finish. \n \n Original baggy monster fit \n Fleeceback sweat fabric \n Garment dyed charcoal leopard print colourway \n Elasticated waist \n Raw hem finish \n Rib trim side pockets \n Inside leg measures 79 cm \n \n Model is 5 ft 9 and wears a size S. \n \n Style code: JMJ7044  \n \n \n 95% Cotton, 5% Polyester \n30 Degree Machine Wash \nWash inside out \nWash with Similar Colours \nCool Iron on reverse",
       "tags": [
         "dark",
@@ -3663,7 +3704,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/grey-marl-gothic-print-baggy-monster-joggers",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Original baggy monster fit \n Fleeceback sweat fabric \n Grey marl colourway \n Gothic print at back \n Elasticated waist \n Raw hem finish \n Rib trim side pockets \n Vintage wash finish \n \n Model is 6 ft 1 and wears a size M. \n \n Style code: JMJ7071  \n \n \n 95% Cotton, 5% Polyester \n30 Degree Machine Wash \nWash inside out \nWash with Similar Colours \nCool Iron on reverse",
       "tags": [
         "dark",
@@ -3699,7 +3740,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/grey-marl-gothic-print-baggy-monster-joggers-1",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This baggy \"monster\" fit jogger is crafted from fleeceback sweat fabric in a grey marl colourway, featuring a gothic print at the back, an elasticated waist, raw hem finish, rib-trimmed side pockets and a vintage wash finish. \n \n Original baggy monster fit \n Fleeceback sweat fabric \n Grey marl colourway \n Gothic print at back \n Elasticated waist \n Raw hem finish \n Rib trim side pockets \n Vintage wash finish \n \n Model is 5 ft 9 and wears a size XS. \n \n Style code: JMJ7071  \n \n \n 95% Cotton, 5% Polyester \n30 Degree Machine Wash \nWash inside out \nWash with Similar Colours \nCool Iron on reverse",
       "tags": [
         "dark",
@@ -3733,7 +3774,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/black-gothic-print-baggy-monster-joggers",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Original baggy monster fit \n Fleeceback sweat fabric \n Black colourway \n Gothic print at back \n Elasticated waist \n Raw hem finish \n Rib trim side pockets \n Vintage wash finish \n \n Model is 6 ft 1 and wears a size M. \n \n Style code: JMJ7072  \n \n \n 100% Cotton \n30 Degree Machine Wash \nWash inside out \nWash with Similar Colours \nCool Iron on reverse",
       "tags": [
         "dark",
@@ -3769,7 +3810,7 @@
       ],
       "sourceUrl": "https://jadedldn.com/products/black-gothic-print-baggy-monster-joggers-1",
       "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This original baggy monster fit is crafted from fleeceback sweat fabric in a black colourway and detailed with a gothic print at the back. It features an elasticated waist, rib trim side pockets and a raw hem finish, completed with a vintage wash for a laid-back, lived-in look. \n \n Original baggy monster fit \n Fleeceback sweat fabric \n Black colourway \n Gothic print at back \n Elasticated waist \n Raw hem finish \n Rib trim side pockets \n Vintage wash finish \n \n Model is 5 ft 9 and wears a size XS.   Style code: JMJ7072    \n 100% Cotton 30 Degree Machine Wash Wash inside out Wash with Similar Colours Cool Iron on reverse",
       "tags": [
         "dark",
@@ -3797,44 +3838,6 @@
       "influence": 1
     },
     {
-      "id": "store-jaded-15462560792955",
-      "title": "LDN Stud Monster Joggers",
-      "brand": "Jaded London",
-      "category": "Bottoms",
-      "categories": [
-        "Bottoms"
-      ],
-      "sourceUrl": "https://jadedldn.com/products/ldn-stud-monster-joggers",
-      "sourceLabel": "Jaded London · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
-      "sourceFacts": "Super oversized colossus fit \n Fleece back heavy sweat fabric \n Grey marl colourway \n LDN hot fix stud artwork \n Elasticated draw cord waistband \n Raw edge waistband details \n Ribbed trim on curved side pockets \n Knee darts \n Raw hem finish \n \n Ian is 6 ft 1 and wears a size M. \n \n Style code: JMJ7182  \n \n \n Fabric 1: 73% Cotton, 27% Polyester, Fabric 2: 100% Metal \nHand Wash Separately \nWash inside out \nReshape whilst damp \nLay flat to dry \nDo not machine wash",
-      "tags": [
-        "dark",
-        "distress",
-        "fitted",
-        "knit",
-        "silver"
-      ],
-      "price": null,
-      "kind": "product",
-      "imageKey": "",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0022/9824/9267/files/Artboard8_062ceda8-7450-4b7f-99ce-8f6fb7ffa1fd.jpg?v=1770222861",
-      "imageUrls": [
-        "https://cdn.shopify.com/s/files/1/0022/9824/9267/files/Artboard8_062ceda8-7450-4b7f-99ce-8f6fb7ffa1fd.jpg?v=1770222861",
-        "https://cdn.shopify.com/s/files/1/0022/9824/9267/files/Artboard9_f2e20938-6070-485d-a215-230863558310.jpg?v=1770222861",
-        "https://cdn.shopify.com/s/files/1/0022/9824/9267/files/Artboard12_ecf3b2fc-2898-4d5a-834b-ca0b8add957c.jpg?v=1770222861",
-        "https://cdn.shopify.com/s/files/1/0022/9824/9267/files/Artboard10_1da67218-39ea-46d2-8ac6-c3fabadc51c5.jpg?v=1770222862",
-        "https://cdn.shopify.com/s/files/1/0022/9824/9267/files/Artboard11_31ca35a9-2b77-4d13-bdfc-1491e7b6a1c9.jpg?v=1770222861",
-        "https://cdn.shopify.com/s/files/1/0022/9824/9267/files/Artboard14_2691f5a3-e3c5-4709-b32c-11a0bb19f775.jpg?v=1770222861",
-        "https://cdn.shopify.com/s/files/1/0022/9824/9267/files/Artboard13_cf090b7b-0394-417c-b2fe-c0c4ec74d7f0.jpg?v=1770222861"
-      ],
-      "origin": "discovery",
-      "publishedAt": "2026-11-11T10:54:16+00:00",
-      "originalSha256": "",
-      "revision": 1,
-      "influence": 1
-    },
-    {
       "id": "store-affliction-15403924488266",
       "title": "Skull Crushed Ovsz 2fer Jersey",
       "brand": "Affliction",
@@ -3844,7 +3847,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/skull-crushed-ovsz-2fer-jersey",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Skull Crushed Ovsz 2fer Jersey",
       "tags": [
         "graphic"
@@ -3883,7 +3886,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/indifference-6",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Indifference S/S B/O Baby Tee",
       "tags": [
         "fitted",
@@ -3917,7 +3920,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/angels-11",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Angels S/S Tee",
       "tags": [
         "graphic"
@@ -3949,7 +3952,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/estellerly-3",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Estellerly L/S Thermal",
       "tags": [
         "knit",
@@ -3984,7 +3987,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/mercenary-3",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Mercenary S/S Tee",
       "tags": [
         "graphic"
@@ -4017,7 +4020,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/skeleton-1",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Skeleton L/S Thermal",
       "tags": [
         "knit",
@@ -4051,7 +4054,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/bound-3",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Bound L/S Mesh Top",
       "tags": [
         "mesh",
@@ -4086,7 +4089,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/rosary-of-life-4",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Rosary Of Life S/S Tee",
       "tags": [
         "graphic"
@@ -4119,7 +4122,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/promised-3",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Promised L/S Zip Up",
       "tags": [
         "silver"
@@ -4155,7 +4158,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/skull-ice-storm-snow-bib",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Skull Ice Storm Snow Bib",
       "tags": [
         "graphic"
@@ -4194,7 +4197,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/skull-ice-storm-jacket",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Skull Ice Storm Jacket",
       "tags": [
         "graphic"
@@ -4239,7 +4242,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/skull-blizzard-pullover",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Skull Blizzard Pullover",
       "tags": [
         "graphic"
@@ -4275,7 +4278,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/skull-blizzard-pant",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Skull Blizzard Pant",
       "tags": [
         "graphic"
@@ -4313,7 +4316,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/skull-graveyard-glove",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Skull Graveyard Glove",
       "tags": [
         "graphic"
@@ -4345,7 +4348,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/skull-ice-storm-glove",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Skull Ice Storm Glove",
       "tags": [
         "graphic"
@@ -4377,7 +4380,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/skull-graveyard-goggle",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Skull Graveyard Goggle",
       "tags": [
         "graphic"
@@ -4421,7 +4424,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/bleak-portrait-1",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Bleak Portrait L/S Zip Hood",
       "tags": [
         "silver"
@@ -4463,7 +4466,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/forgotten-11",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Forgotten S/S Baby Tee",
       "tags": [
         "fitted",
@@ -4496,7 +4499,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/sacred-skull-sweater",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Sacred Skull Sweater",
       "tags": [
         "graphic",
@@ -4530,7 +4533,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/tribal-sweater",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Tribal Sweater",
       "tags": [
         "knit"
@@ -4565,7 +4568,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/albino-preto",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Albino & Preto S/S Tee",
       "tags": [
         "graphic"
@@ -4594,7 +4597,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/copper-crypt",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Copper Crypt S/S Tee",
       "tags": [
         "graphic"
@@ -4629,7 +4632,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/eleven-2",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Eleven S/S Tee",
       "tags": [
         "graphic"
@@ -4663,7 +4666,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/dead-end-denim-jacket",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Dead End Denim Jacket",
       "tags": [
         "denim"
@@ -4696,7 +4699,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/always-waiting",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Always Waiting",
       "tags": [
         "denim"
@@ -4733,7 +4736,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/screaming-roots-1",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Screaming Roots S/S Tee",
       "tags": [
         "graphic"
@@ -4766,7 +4769,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/george-ss-slub-tee",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "George Ss Slub Tee",
       "tags": [
         "graphic"
@@ -4799,7 +4802,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/reaper-returns",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Reaper Returns",
       "tags": [
         "denim"
@@ -4834,7 +4837,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/scrutiny",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Scrutiny S/S Tee",
       "tags": [
         "graphic"
@@ -4868,7 +4871,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/wicked-3",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Wicked S/S Vneck",
       "tags": [
         "graphic"
@@ -4901,7 +4904,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/dublin-smash-4",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Dublin Smash S/S Tee",
       "tags": [
         "graphic"
@@ -4935,7 +4938,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/crossbones-wallet-1",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Crossbones Wallet",
       "tags": [
         "graphic"
@@ -4971,7 +4974,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/crossbones-wallet",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Crossbones Wallet",
       "tags": [
         "graphic",
@@ -5005,7 +5008,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/grave-wheel-keychain",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Grave Wheel Keychain",
       "tags": [
         "silver"
@@ -5039,7 +5042,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/black-cathedral",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Black Cathedral",
       "tags": [
         "dark"
@@ -5078,7 +5081,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/affliction-skull-travel-bag",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Affliction Skull Travel Bag",
       "tags": [
         "graphic"
@@ -5122,7 +5125,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/skeleton-necklace",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Skeleton Necklace",
       "tags": [
         "mesh"
@@ -5169,7 +5172,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/winged-cross-necklace",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Winged Cross Necklace",
       "tags": [
         "mesh",
@@ -5211,7 +5214,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/forsakin-necklace",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Forsakin Necklace",
       "tags": [
         "mesh"
@@ -5258,7 +5261,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/seeker-necklace",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Seeker Necklace",
       "tags": [
         "mesh"
@@ -5302,7 +5305,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/death-tag-necklace",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Death Tag Necklace",
       "tags": [
         "mesh"
@@ -5342,7 +5345,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/razor-saint",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Razor Saint",
       "tags": [
         "silver"
@@ -5374,7 +5377,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/razor-saint-wallet-chain",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Razor Saint Wallet Chain",
       "tags": [
         "silver"
@@ -5403,7 +5406,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/studded-fleur-bracelet",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Studded Fleur Bracelet",
       "tags": [
         "silver"
@@ -5435,7 +5438,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/odette-zip-hood",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Odette Zip Hood",
       "tags": [
         "silver"
@@ -5474,7 +5477,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/lost-apostle",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Lost Apostle S/S Tee",
       "tags": [
         "graphic"
@@ -5507,7 +5510,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/eternal-wager-1",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Eternal Wager S/S Tee",
       "tags": [
         "graphic"
@@ -5540,7 +5543,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/winged-up-13",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Winged Up S/S Tee",
       "tags": [
         "graphic"
@@ -5574,7 +5577,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/tompson",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Tompson S/S Tee",
       "tags": [
         "graphic"
@@ -5609,7 +5612,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/psd-blackwater-hood",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Psd Blackwater Hood",
       "tags": [
         "dark"
@@ -5643,7 +5646,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/psd-blackwater-fleece-pant",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Psd Blackwater Fleece Pant",
       "tags": [
         "dark"
@@ -5678,7 +5681,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/shadow-shifter-hood",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Shadow Shifter Pullover Hood \n 100% Cotton  \n Heavy Weight Fleece  \n Twinkle Wash  \n Black Drawcord \n Multicolor Rhinestones Over Front + Back Art \n Model is wearing size Large",
       "tags": [
         "dark",
@@ -5713,7 +5716,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/solemn-echo",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Solemn Echo S/S Tee",
       "tags": [
         "graphic"
@@ -5748,7 +5751,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/ayala-7",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Ayala Long Sleeve  \n 100% Cotton  \n \n Thermal \n Black Reactive  \n Enzyme Silicone Wash After Print  \n Model is wearing size Large",
       "tags": [
         "dark",
@@ -5784,7 +5787,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/crows-15",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Crows S/S Tee",
       "tags": [
         "graphic"
@@ -5817,7 +5820,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/victoria",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Victoria S/S Tee",
       "tags": [
         "graphic"
@@ -5854,7 +5857,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/dublin-smash-5",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Dublin Smash S/S Boxy Tee",
       "tags": [
         "graphic"
@@ -5887,7 +5890,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/crossed-hood",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Crossed Hood",
       "tags": [
         "graphic"
@@ -5922,7 +5925,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/spiral-ghost",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Spiral Ghost S/S Boxy Tee",
       "tags": [
         "graphic"
@@ -5957,7 +5960,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/shades-of-karma",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Shades Of Karma S/S Tee",
       "tags": [
         "graphic"
@@ -5992,7 +5995,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/poison-wasteland",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Poison Wasteland S/S Tee",
       "tags": [
         "graphic"
@@ -6026,7 +6029,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/savage-gasp-gothic-tee",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Savage Gasp Gothic S/S Tee",
       "tags": [
         "graphic"
@@ -6061,7 +6064,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/gorecore-sacrifice",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Gorecore Sacrifice Short Sleeve Tee  \n 100% Cotton  \n Black Lava Wash  \n Enzyme Silicone Wash After Print \n Grinding On Collar + Bottom Hem",
       "tags": [
         "dark",
@@ -6091,7 +6094,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/gorecore-scorn",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Gorecore Scorn Short Sleeve Tee \n 100% Cotton  \n Black Lava Wash \n Enzyme Silicone Wash After Print \n Grinding On Collar + Bottom Hem",
       "tags": [
         "dark",
@@ -6121,7 +6124,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/shrouded-burden",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Shrouded Burden S/S Tee",
       "tags": [
         "graphic"
@@ -6154,7 +6157,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/death-eyes-dust-bag",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Death Eyes Dust Bag \n 100% Cotton \n Heavyweight \n Black  \n 18\" x 18\"",
       "tags": [
         "dark"
@@ -6183,7 +6186,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/sodality-sleeveless-tee-1",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Sodality Sleeveless Tee",
       "tags": [
         "graphic"
@@ -6217,7 +6220,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/solemn-twilight",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Solemn Twilight S/S Tee",
       "tags": [
         "graphic"
@@ -6251,7 +6254,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/desperation-3",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Desperation S/S Tee",
       "tags": [
         "graphic"
@@ -6284,7 +6287,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/hunter-1",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Hunter S/S Tee",
       "tags": [
         "graphic"
@@ -6317,7 +6320,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/night-screamer-6",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Night Screamer L/S Tee",
       "tags": [
         "graphic"
@@ -6351,7 +6354,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/haunted-crypt",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Haunted Crypt S/S Tee",
       "tags": [
         "graphic"
@@ -6385,7 +6388,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/stone-grail-zip-hood-1",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Stone Grail Zip Hood",
       "tags": [
         "silver"
@@ -6420,7 +6423,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/jump-29",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Jump L/S Vneck Sweater",
       "tags": [
         "knit",
@@ -6455,7 +6458,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/granite-wake",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Granite Wake S/S Tee",
       "tags": [
         "graphic"
@@ -6489,7 +6492,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/fracture",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Fracture S/S Tee",
       "tags": [
         "graphic"
@@ -6524,7 +6527,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/rise-from-darkness",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Rise From Darkness",
       "tags": [
         "denim"
@@ -6559,7 +6562,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/december-horizon-1",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "December Horizon S/S Tee",
       "tags": [
         "graphic"
@@ -6591,7 +6594,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/cross-2",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Cross S/S Tee",
       "tags": [
         "graphic"
@@ -6627,7 +6630,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/bleak-portrait-ovrszd-zip-hood",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Bleak Portrait Ovrszd Zip Hood",
       "tags": [
         "silver"
@@ -6660,7 +6663,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/free-mind-zip-flannel",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Free Mind Zip Flannel",
       "tags": [
         "silver"
@@ -6694,7 +6697,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/ivory-solace",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Ivory Solace L/S Rev. Thermal",
       "tags": [
         "mesh",
@@ -6735,7 +6738,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/flaming-dragon-7",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Flaming Dragon S/S Tee",
       "tags": [
         "fitted",
@@ -6769,7 +6772,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/seeker-6",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Seeker S/S Tee",
       "tags": [
         "graphic"
@@ -6803,7 +6806,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/ghost-fever-2",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Ghost Fever S/S Boxy Tee",
       "tags": [
         "graphic"
@@ -6836,7 +6839,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/rising-passage-1",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Rising Passage S/S Boxy Tee",
       "tags": [
         "graphic"
@@ -6872,7 +6875,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/abrasive-line-2",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Abrasive Line S/S Tee",
       "tags": [
         "graphic"
@@ -6905,7 +6908,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/decimation-7",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Decimation S/S Boxy Tee",
       "tags": [
         "graphic"
@@ -6938,7 +6941,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/tortured-3",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Tortured S/S Tee",
       "tags": [
         "graphic"
@@ -6972,7 +6975,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/jump-30",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Jump S/S Boxy Tee",
       "tags": [
         "graphic"
@@ -7005,7 +7008,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/skeleton-27",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Skeleton S/S Tee",
       "tags": [
         "graphic"
@@ -7038,7 +7041,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/simulation-bo",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Simulation Bo S/S Tee",
       "tags": [
         "graphic"
@@ -7071,7 +7074,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/empower-4",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Empower S/S Tee",
       "tags": [
         "graphic"
@@ -7104,7 +7107,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/blade-killer-3",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Blade Killer S/S Burnout Tee",
       "tags": [
         "graphic"
@@ -7137,7 +7140,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/mortal-veil-4",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Mortal Veil S/S Tee",
       "tags": [
         "graphic"
@@ -7171,7 +7174,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/collapse-muscle-tee-1",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Collapse Muscle Tee",
       "tags": [
         "graphic"
@@ -7204,7 +7207,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/death-eyes-19",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Death Eyes S/S Boxy Tee",
       "tags": [
         "graphic"
@@ -7238,7 +7241,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/washed-affliction-hat",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Washed Affliction Hat",
       "tags": [
         "dark",
@@ -7276,7 +7279,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/gow-crow",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Gow Crow S/S Tee",
       "tags": [
         "graphic"
@@ -7311,7 +7314,7 @@
       ],
       "sourceUrl": "https://www.afflictionclothing.com/products/gow-immortal",
       "sourceLabel": "Affliction · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Gow Immortal S/S Tee",
       "tags": [
         "graphic"
@@ -7346,7 +7349,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/lks-zebra-skull-ft-low-rise-sweatpants-stone",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "These low-rise sweatpants feature an LKS Zebra Skull graphic along the leg. Constructed from a soft cotton-poly blend in the shade stone. Complete with Ed Hardy logos on the front and back.",
       "tags": [
         "graphic"
@@ -7375,7 +7378,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/stone-angel-sweatpant-lt-cream",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "These sweatpants feature an archival cross graphic along the leg. Constructed from a soft cotton-poly blend in the shade cream. Complete with an Ed Hardy logos on the front and back.",
       "tags": [
         "graphic"
@@ -7406,7 +7409,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/sacred-heart-cropped-rugby-tee-patch-emb-faded-black",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This rugby tee is cut from a thick, 100% cotton in a cropped silhouette. Features faded black and grey stripes and a white collar. Complete with patches containing Ed Hardy logos and artwork.",
       "tags": [
         "dark",
@@ -7436,7 +7439,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/panther-flame-rhinestone-baggy-sweatpant-ivory",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "These sweatpants are adorned with rhinestones and feature layers of archival Ed Hardy artwork on both legs. Constructed from a soft cotton-poly blend in the shade ivory. Complete with multiple Ed Hardy logos.",
       "tags": [
         "layer",
@@ -7466,7 +7469,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/flower-skull-zip-hoodie",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This zip hoodie features layers of iconic Ed Hardy artwork. Constructed from a soft cotton-poly blend in the shade cherry. Complete with gold Ed Hardy logos on the front and sleeve.",
       "tags": [
         "graphic",
@@ -7497,7 +7500,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/flower-skull-sweatpant-cherry",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "These sweatpants feature archival Ed Hardy Flower Skull artwork. Constructed from a soft cotton-poly blend in the shade cherry. Complete with Ed Hardy logos on the front and back.",
       "tags": [
         "graphic"
@@ -7526,7 +7529,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/ls-zebra-skull-crop-tee-stone",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This long sleeve cropped tee features an LKS Skull graphic layered over archival Ed Hardy artwork. Constructed from a soft cotton-poly blend in the shade stone. Complete with multiple iconic Ed Hardy logos in pink.",
       "tags": [
         "graphic",
@@ -7556,7 +7559,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/berry-lks-skull-ls-cropped-tee-faded-black",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This rhinestone adorned fitted long sleeve tee features a skull graphic on the front and classic Ed Hardy logo on the back. Constructed from a soft cotton-poly blend in the shade black.",
       "tags": [
         "dark",
@@ -7588,7 +7591,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/tigers-self-hang-down-tee-lt-cream",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This hang down tee features archival Tigers artwork and sleeves for the perfect vintage layered look. Constructed from a soft cotton-poly blend in the shade cream. Complete with multiple iconic Ed Hardy logos.",
       "tags": [
         "graphic",
@@ -7618,7 +7621,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/leopard-panther-ls-fitted-tee-teal",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This fitted long sleeve tee features a Phoenix panther graphic on the front and classic Ed Hardy logo on the back. Constructed from a soft cotton-poly blend in the shade black.",
       "tags": [
         "dark",
@@ -7649,7 +7652,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/pink-panther-cap-sleeve-tee-dusty-rose",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This v-neck tee features layers of archival panther and wings artwork. Cut from a stretchy cotton-poly blend in the shade dusty rose. Complete with multiple iconic Ed Hardy logos.",
       "tags": [
         "graphic",
@@ -7679,7 +7682,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/bat-skull-baby-tee-faded-black",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This classic baby tee is cut from a soft cotton-poly blend in the shade faded black. Complete with an archival skull graphic and Ed Hardy logo.",
       "tags": [
         "dark",
@@ -7710,7 +7713,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/flame-skull-baby-tee-dusty-rose",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This classic baby tee is cut from a soft cotton-poly blend in the shade dusty rose. Complete with an archival skull graphic and Ed Hardy logo.",
       "tags": [
         "fitted",
@@ -7740,7 +7743,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/tiger-flames-rhinestones-baggy-sweatpant-teal",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "These sweatpants are adorned with rhinestones and feature dragon artwork on both legs. Constructed from a soft cotton-poly blend in the shade teal. Complete with dragon graphics and multiple Ed Hardy logos.",
       "tags": [
         "graphic",
@@ -7770,7 +7773,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/tiger-panther-fur-trimmed-cropped-zip-hoodie-espresso",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This cropped zip hoodie features a tiger graphics on the front and on the sleeves. Constructed from a soft cotton-poly blend in the shade espresso. Complete with iconic Ed Hardy logos and a detachable faux fur hood.",
       "tags": [
         "graphic",
@@ -7800,7 +7803,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/stone-angel-fur-trimmed-cropped-zip-hoodie-lt-cream",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This cropped zip hoodie features classic Ed Hardy artwork the front, and archival graphics on the sleeves. Constructed from a soft cotton-poly blend in the shade cream. Complete with iconic Ed Hardy logos and a detachable faux fur hood.",
       "tags": [
         "graphic",
@@ -7830,7 +7833,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/panthers-sunfade-boxy-zip-hoodie-black",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This boxy hoodie features vibrant layers of all-over Ed Hardy tattoo artwork. Constructed from a soft cotton-poly blend in the shade ivory. Complete with an iconic Ed Hardy logo on the front.",
       "tags": [
         "graphic",
@@ -7861,7 +7864,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/tiger-skull-fleece-hoodie-puff-print-mineral-rose",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This puff print hoodie features iconic Ed Hardy artwork on both sides and sleeves. Constructed from a soft cotton-poly blend in the shade mineral rose. Complete with multiple Ed Hardy logos.",
       "tags": [
         "graphic"
@@ -7890,7 +7893,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/tiger-flames-rhinestone-boxy-fleece-hoodie",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This fleece hoodie is adorned with rhinestones and features layers of archival Ed Hardy artwork. Constructed from a soft cotton-poly blend in the shade teal. Complete with multiple iconic Ed Hardy logos.",
       "tags": [
         "layer",
@@ -7920,7 +7923,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/fire-panther-boxy-fleece-hoodie-sunfade-black",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This boxy fleece hoodie features cross artwork along the sleeves and a Fire Panther graphic on the front. Constructed from a soft cotton-poly blend in the shade sunfade black. Complete with multiple archival Ed Hardy logos.",
       "tags": [
         "dark",
@@ -7950,7 +7953,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/classic-fur-trim-shrunken-zip-hoodie-deep-red",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This shrunken zip hoodie features a skull graphic layered over archival Ed Hardy artwork. Constructed from a soft cotton-poly blend in the shade deep red. Complete with multiple Ed Hardy logos, Ed Hardy logo across one sleeve, and a detachable fur hood.",
       "tags": [
         "graphic",
@@ -7981,7 +7984,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/crawling-tigers-boxy-cropped-puffer-jacket-black",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This zip up black puffer jacket features embroidered crawling Tiger graphics on the sleeves. Complete with an iconic Ed Hardy logo on the front and LKS embroidery on the back.",
       "tags": [
         "dark",
@@ -8012,7 +8015,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/cross-skulls-stacked-flare-jeans-black",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "These classic flare silhouette jeans are cut from Y2K tint denim and feature metal cross embellishments throughout. Complete with an Ed Hardy logo on the front pocket and across the back.",
       "tags": [
         "denim",
@@ -8043,7 +8046,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/skulls-fold-over-yoga-pant-dusty-rose",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "These foldover yoga pants feature archival Ed Hardy artwork along the leg. Constructed from a stretchy poly-span blend in the shade dusty rose. Complete with an Ed Hardy logo on a striped foldover band.",
       "tags": [
         "graphic"
@@ -8072,7 +8075,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/skulls-off-shoulder-ls-crop-top-dusty-rose",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This off the shoulder crop top features skull artwork on one sleeve and a script Ed Hardy logo on the other. Constructed from a stretchy 100% cotton in a striped dusty rose. Complete with an Ed Hardy logo on the front.",
       "tags": [
         "graphic"
@@ -8101,7 +8104,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/leopard-hearts-zip-hoodie-cherry",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This zip hoodie features layers of iconic Ed Hardy artwork. Constructed from a soft cotton-poly blend in the shade cherry red. Complete with Ed Hardy logos throughout.",
       "tags": [
         "layer",
@@ -8131,7 +8134,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/crosses-bomber-jacket-burgundy",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This bomber jacket features archival dragon artwork and several signature Ed Hardy logos.",
       "tags": [
         "graphic"
@@ -8160,7 +8163,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/skeles-boxy-plaid-thermal-hangdown-tee-brown",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This thermal long sleeve hangdown tee features archival Ed Hardy artwork on the front and back. Complete with several iconic Ed Hardy logos.",
       "tags": [
         "graphic",
@@ -8191,7 +8194,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/skeles-motocross-jacket-patch-emb-black",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This jacket is constructed from a poly faux leather and adorned with Ed Hardy graphics.",
       "tags": [
         "graphic"
@@ -8220,7 +8223,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/nyc-skull-y2k-velour-hoodie-copy",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Ed Hardy’s velour sets are a modern twist on the iconic style that reigned in the early 2000’s. This velour hoodie features signature silver graphics and an iconic Ed Hardy NYC spiderweb.",
       "tags": [
         "graphic",
@@ -8249,7 +8252,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/lks-skulls-velour-sweatpant-copy",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "These velour sweatpants feature archival tiger graphic along the leg and classic spiderweb on the back. Constructed from a soft velour-poly blend amd complete with multiple Ed Hardy logos.",
       "tags": [
         "graphic"
@@ -8278,7 +8281,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/mary-v-neck-tee-faded-black",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This v-neck tee features layers of archival Ed Hardy artwork. Cut from a stretchy cotton-poly blend in the shade faded black. Complete with multiple pink Ed Hardy logos.",
       "tags": [
         "dark",
@@ -8309,7 +8312,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/sacred-heart-wings-throwback-bootcut-jeans-y2k-tint",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "These classic bootcut silhouette jeans are cut from Y2K tint denim and feature archival rhinestone wing artwork on both legs. Complete with an Ed Hardy logo on the front pocket and across the back.",
       "tags": [
         "denim",
@@ -8341,7 +8344,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/gamble-heart-cap-sleeve-tee-lt-cream",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This cap sleeve tee features puff print Ed Hardy logos and archival artwork. Constructed from a soft cotton-poly blend in the shade hunter.",
       "tags": [
         "graphic"
@@ -8370,7 +8373,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/lks-skulls-hooded-sherpa-zip-up-jacket-deep-red",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This sherpa zip up jacket features archival artwork along the sleeves and an LKS Skull graphic on the back. Constructed from a soft cotton-poly blend in the shade deep red. Complete with a signature Ed Hardy logo on the front.",
       "tags": [
         "graphic",
@@ -8400,7 +8403,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/leopard-heart-fur-trim-shrunken-zip-hoodie-berry",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This shrunken zip hoodie features a Leopard graphic layered over archival Ed Hardy artwork. Constructed from a soft cotton-poly blend in the shade berry. Complete with multiple Ed Hardy logos, Leopard Heart graphics along one sleeve, and a detachable fur hood.",
       "tags": [
         "graphic",
@@ -8431,7 +8434,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/panther-vine-ls-fitted-tee-lt-cream",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This fitted long sleeve tee features a Panther Vine graphic over layers of archival artwork. Constructed from a soft cotton-poly blend in the shade light cream. Complete with multiple Ed Hardy logos in red.",
       "tags": [
         "fitted",
@@ -8462,7 +8465,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/phoenix-ls-fitted-tee-black",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This fitted long sleeve tee is adorned with rhinestones and features a Phoenix graphic on the black. Constructed from a soft cotton-poly blend in the shade black. Complete with an Ed Hardy logo and a “Love Kills Slowly” on the front.",
       "tags": [
         "dark",
@@ -8494,7 +8497,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/devil-woman-cap-sleeve-tee-black",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This cap sleeve tee features a Devil Woman graphic over layers of archival Ed Hardy artwork. Constructed from a soft cotton-poly blend and adorned with rhinestones. Complete with an iconic Ed Hardy logo.",
       "tags": [
         "graphic",
@@ -8525,7 +8528,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/lks-skull-leaves-ls-fitted-tee-puff-amethyst",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This fitted long sleeve tee features a LKS Skull Leaves graphic over layers of archival artwork. Constructed from a soft cotton-poly blend in the shade amethyst. Complete with puff print Ed Hardy logos.",
       "tags": [
         "fitted",
@@ -8556,7 +8559,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/lks-skulls-velour-sweatpant-black",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "These velour sweatpants feature archival LKS Skull graphics along both legs. Constructed from a soft cotton-poly blend amd complete with multiple Ed Hardy logos.",
       "tags": [
         "graphic"
@@ -8585,7 +8588,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/leopard-panther-cropped-zip-hoodie-sunfade-grey",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This cropped hoodie features a Leopard Panther graphic layered over archival Ed Hardy artwork. Constructed from a soft cotton-poly blend in the shade sunfade grey. Complete with several Ed Hardy logos.",
       "tags": [
         "dark",
@@ -8617,7 +8620,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/rose-butterflies-tee-stone",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This cap sleeve tee features archival Ed Hardy Rose Butterflies artwork. Constructed from a soft cotton-poly blend in the shade stone. Complete with iconic Ed Hardy logos.",
       "tags": [
         "graphic"
@@ -8646,7 +8649,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/retro-tiger-hangdown-tee-faded-black",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This hangdown tee features a retro tiger graphic and lace sleeves for the perfect layered look. Constructed from a stretchy poly-cotton blend and adorned with rhinestones. Complete with multiple archival Ed Hardy logos.",
       "tags": [
         "mesh",
@@ -8678,7 +8681,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/dagger-snake-v-neck-tee-faded-black",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This striped v-neck tee features archival Dagger Snake artwork. Constructed from a stretchy cotton-poly blend in the shade faded black. Complete with pink Ed Hardy logos on the front and back.",
       "tags": [
         "dark",
@@ -8708,7 +8711,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/cross-wings-v-neck-tee-dusty-rose",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This v-neck tee features layers of archival cross and wings artwork. Cut from a stretchy cotton-poly blend in the shade dusty rose. Complete with multiple iconic Ed Hardy logos.",
       "tags": [
         "graphic",
@@ -8738,7 +8741,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/leopard-panther-oversized-boxy-tee",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This rhinestone-adorned boxy tee features archival Ed Hardy leopard panther artwork. Constructed from 100% cotton in the shade espresso. Complete with Ed Hardy logos on the front and back.",
       "tags": [
         "graphic",
@@ -8768,7 +8771,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/heart-flames-cap-sleeve-tee",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This cap sleeve tee features archival Ed Hardy Heart Flames graphics. Constructed from a soft cotton-poly blend in the shade faded black. Complete with iconic Ed Hardy logos.",
       "tags": [
         "dark",
@@ -8798,7 +8801,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/flame-dragon-baby-tee",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This classic baby tee features an archival Flame Dragon graphic. Constructed from a soft cotton-poly blend in the shade powder blue. Complete with a gold Ed Hardy logo on the front, and a gold “Painted By Ed” on the back.",
       "tags": [
         "fitted",
@@ -8828,7 +8831,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/cross-heart-long-sleeve-power-mesh-tee",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This long sleeve power-mesh tee features layers of archival Ed Hardy artwork. Constructed from a stretchy poly in the shade light cream. Complete with several Ed Hardy logos in red.",
       "tags": [
         "mesh",
@@ -8859,7 +8862,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/lks-heart-baby-tee-grape",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This classic baby tee is cut from a soft cotton-poly blend in the shade grape. Complete with an archival LKS Heart graphic, and a puff print Ed Hardy logo.",
       "tags": [
         "fitted",
@@ -8889,7 +8892,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/card-of-hearts-wide-leg-jean",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "These jeans feature an all-over zebra print. Constructed from a cotton-poly blend in a wide leg silhouette. Complete with a Card of Hearts graphic and a signature Ed Hardy logo on the back.",
       "tags": [
         "denim",
@@ -8919,7 +8922,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/flower-skull-zip-hoodie-cherry",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This zip hoodie features a Flower Skull graphic over layers of archival Ed Hardy artwork. Constructed from a soft cotton-poly blend in the shade cherry. Complete with Ed Hardy logos on the front and sleeve.",
       "tags": [
         "graphic",
@@ -8950,7 +8953,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/angel-wings-super-baggy-jeans-black",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "These black jeans feature rhinestone-adorned wings on both legs. Constructed from 100% cotton in a super baggy fit. Complete with two Ed Hardy logos in pink.",
       "tags": [
         "dark",
@@ -8981,7 +8984,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/cross-rose-sherpa-pant-emb-ivory",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "These sherpa pants feature Cross Rose artwork along the leg. Constructed from a soft cotton-poly blend in the shade ivory. Complete with Ed Hardy logos on the front and back.",
       "tags": [
         "graphic"
@@ -9010,7 +9013,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/lks-heart-baby-tee-espresso",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This classic baby tee features an archival LKS Heart graphic. Constructed from a soft cotton-poly blend in the shade espresso. Complete with iconic Ed Hardy logos on the front and back.",
       "tags": [
         "fitted",
@@ -9040,7 +9043,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/lks-explosion-tee-faded-black",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This classic baby tee is adorned with rhinestones and cut from a soft cotton-poly blend in the shade faded black. Complete with an archival LKS Explosion graphic, and multiple iconic Ed Hardy logos.",
       "tags": [
         "dark",
@@ -9072,7 +9075,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/christmas-tiger-ls-button-up-black-black",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This 2026 Holiday exclusive top feature festive tiger artwork throughout. Constructed from a super soft modal blend in black, complete with mini tigers in Santa hats and the classic Ed Hardy logo.",
       "tags": [
         "dark"
@@ -9101,7 +9104,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/lks-winged-skull-fleece-short-stone",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "These fleece shorts feature an LKS graphic over layers of archival Ed Hardy artwork. Constructed from a soft cotton-poly blend in the shade stone. Complete with multiple Ed Hardy logos.",
       "tags": [
         "graphic",
@@ -9131,7 +9134,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/lks-skull-baggy-sweatpant-deep-red",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "These baggy sweatpants feature LKS Skull graphics on both legs. Constructed from a soft cotton-poly blend in the shade deep red. Complete with several Ed Hardy logos.",
       "tags": [
         "graphic"
@@ -9160,7 +9163,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/dragons-baggy-sweatpant-black",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "These baggy sweatpants feature archival Dragon artwork on both legs. Constructed from a soft cotton-poly blend and adorned with studs. Complete with multiple Ed Hardy logos.",
       "tags": [
         "silver"
@@ -9189,7 +9192,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/mary-dragon-boxy-zip-hoodie-black",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This boxy zip up hoodie features a Mary graphic on the front and Dragon artwork on both sleeves. Constructed from a soft cotton-poly blend and adorned with studs. Complete with multiple Ed Hardy logos.",
       "tags": [
         "graphic",
@@ -9219,7 +9222,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/snake-rose-sweatpant-hunter",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "These sweatpants feature a Snake Rose graphic along the leg. Constructed from a soft cotton-poly blend in the shade hunter green and adorned with rhinestones. Complete with several Ed Hardy logos.",
       "tags": [
         "graphic",
@@ -9249,7 +9252,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/japan-lion-rhinestone-hang-down-pant",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "These hangdown sweatpants feature iconic Japan Lion artwork and an edgy, layered look. Constructed from a soft cotton-poly blend and adorned with rhinestones. Complete with multiple Ed Hardy logos.",
       "tags": [
         "layer",
@@ -9279,7 +9282,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/japan-lion-rhinestone-hang-down-zip-hoodie",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This hangdown zip hoodie features iconic Japan Lion artwork and an edgy, layered look. Constructed from a soft cotton-poly blend and adorned with rhinestones. Complete with multiple Ed Hardy logos.",
       "tags": [
         "layer",
@@ -9309,7 +9312,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/lks-skull-boxy-zip-hoodie-deep-red",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This boxy zip hoodie features an LKS Skull graphic layered over archival Ed Hardy artwork. Constructed from a soft cotton-poly blend in the shade deep red. Complete with several Ed Hardy logos.",
       "tags": [
         "graphic",
@@ -9340,7 +9343,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/lord-mary-boxy-tee-sunfade-black",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This boxy tee is cut from 100% cotton in the shade sunfade black. Complete with archival Lord Mary artwork, and multiple iconic Ed Hardy logos.",
       "tags": [
         "dark",
@@ -9370,7 +9373,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/dg-skull-boxy-tee-powder-blue",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This boxy tee is adorned with rhinestones and cut from 100% cotton in the shade powder blue. Complete with multiple Ed Hardy logos and a DG Skull graphic.",
       "tags": [
         "graphic",
@@ -9400,7 +9403,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/cross-mens-ss-tee-black",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This short sleeve tee features a Cross graphic layered over archival Ed Hardy artwork. Constructed from a cotton-poly blend in the shade black. Complete with Ed Hardy logos on both sides.",
       "tags": [
         "dark",
@@ -9431,7 +9434,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/firelord-mens-ss-tee-red",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This short sleeve tee features a Firelord graphic layered over archival Ed Hardy artwork. Constructed from a cotton-poly blend in the shade red. Complete with Ed Hardy logos on both sides.",
       "tags": [
         "graphic",
@@ -9461,7 +9464,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/fire-panther-mens-ss-tee-faded-black",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This short sleeve tee features a Fire Panther graphic over layers of archival Ed Hardy artwork. Constructed from a cotton-poly blend in the shade faded black. Complete with Ed Hardy logos on both sides.",
       "tags": [
         "dark",
@@ -9492,7 +9495,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/lks-winged-skull-mens-ss-tee-stone",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This short sleeve tee features an LKS Winged graphic over layers of archival Ed Hardy artwork. Constructed from a cotton-poly blend in the shade stone. Complete with a blue “Painted By Ed” on the back, and an Ed Hardy logo on the front.",
       "tags": [
         "graphic",
@@ -9522,7 +9525,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/panthers-mens-ss-tee-spring",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This short sleeve tee features iconic Panther graphics over layers of archival Ed Hardy artwork. Constructed from a cotton-poly blend in the shade spring. Complete with Ed Hardy logos on the front and back.",
       "tags": [
         "graphic",
@@ -9552,7 +9555,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/butterflies-cropped-hoodie-lt-olive",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Ed Hardy’s fleece sets add a modern twist to the styles that reigned in the early 2000’s. This throwback sweatshirt features a cropped fit complete with layered archival graphics and multiple signature logos.",
       "tags": [
         "graphic",
@@ -9583,7 +9586,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/nyc-skull-fleece-sweatshort",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Represent the city that never sleeps with the NYC Skull Fleece Sweatshort, featuring a bold skull graphic and comfortable fleece material.  \n \n Soft and cozy fleece material for comfort \n Bold skull graphic with \"NYC\" lettering adds a touch of urban style \n Elastic waistband and drawstring for a secure and comfortable fit \n Two side pockets for convenience \n Perfect for pairing with a graphic tee and sneakers for a cool and casual look.",
       "tags": [
         "graphic"
@@ -9612,7 +9615,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/brave-eagle-cropped-hoodie-heather-grey",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Ed Hardy’s fleece sets add a modern twist to the styles that reigned in the early 2000’s. This throwback sweatshirt features a cropped fit complete with layered archival graphics and multiple signature logos.",
       "tags": [
         "dark",
@@ -9647,7 +9650,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/phoenix-wings-oversized-hooded-sherpa-zip-up-jacket-black",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This sherpa zip up jacket features a hood and an oversized fit. Complete with angel wing artwork on the back and an Ed Hardy “Love Kills Slowly” logo on the front.",
       "tags": [
         "silver"
@@ -9676,7 +9679,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/skull-flowers-velour-sweatpant-berry",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "These velour sweatpants feature archival LKS Skull graphics. Constructed from a soft velour blend and complete with multiple Ed Hardy logos.",
       "tags": [
         "graphic"
@@ -9705,7 +9708,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/cruella-flame-heart-baby-tee-ivory",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Disney x Ed Hardy  This classic baby tee features Flame Heart Cruella artwork on the front. Constructed from a soft cotton-poly blend in the shade ivory and adorned with rhinestones. Complete with an Ed Hardy logo on the back and Cruella logo on the front.",
       "tags": [
         "fitted",
@@ -9736,7 +9739,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/cruella-eagle-cap-sleeve-tee-black",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Disney x Ed Hardy  This cap sleeve tee features a Cruella graphic layered over archival Ed Hardy artwork on the front. Constructed from a soft cotton-poly blend in the shade black and adorned with rhinestones. Complete with an Ed Hardy logo on the back and Cruella logo on the front.",
       "tags": [
         "dark",
@@ -9768,7 +9771,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/cruella-flame-rose-fitted-tee-ivory",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Disney x Ed Hardy  This fitted tee features a Cruella graphic layered over archival Ed Hardy artwork on the front. Constructed from a soft cotton-poly blend in the shade ivory and adorned with rhinestones. Complete with an Ed Hardy logo on the back and Cruella logo on the front.",
       "tags": [
         "fitted",
@@ -9800,7 +9803,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/cruella-flame-skull-cap-sleeve-tee-black",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Disney x Ed Hardy  This cap sleeve tee features a Cruella graphic layered over archival Ed Hardy artwork on the front. Constructed from a soft cotton-poly blend in the shade black. Complete with an Ed Hardy logo on the back and Cruella logo on the front.",
       "tags": [
         "dark",
@@ -9831,7 +9834,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/cruella-flame-wings-cap-sleeve-tee-pink-ballerina",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "Disney x Ed Hardy  This cap sleeve tee features a Cruella graphic layered over archival Ed Hardy artwork on the front. Constructed from a soft cotton-poly blend in the shade pink ballerina and adorned with rhinestones. Complete with an Ed Hardy logo on the front and a Cruella de Vil logo on the back.",
       "tags": [
         "graphic",
@@ -9862,7 +9865,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/lks-santa-skull-fold-over-yoga-pant-pink",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "These Holiday 2026 exclusive yoga pants are crafted from a stretchy poly-span blend in pink, featuring festive Ed Hardy artwork throughout.",
       "tags": [
         "graphic"
@@ -9891,7 +9894,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/lks-santa-skull-ls-crop-shirt-pink",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This Holiday 2026 exclusive long sleeve tee is crafted from a soft poly-span blend in pink, featuring festive Ed Hardy graphics.",
       "tags": [
         "graphic"
@@ -9920,7 +9923,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/3-hearts-faux-fur-boxy-hooded-jacket-leopard",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This leopard faux fur zip up jacket features an embroidered 3 Hearts graphic on the back. Complete with a red Ed Hardy logo on the front.",
       "tags": [
         "graphic",
@@ -9950,7 +9953,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/skull-roses-twill-baseball-cap",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This adjustable twill baseball cap showcases an embroidered Skull Roses graphic. The iconic curved brim is complete with an embroidered Ed Hardy logo and two roses. Constructed from a blend of cotton and poly in a washed espresso.",
       "tags": [
         "dark",
@@ -9981,7 +9984,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/lks-zebra-skull-snapback",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This adjustable faux leather snapback hat features embroidered zebra Love Kills Slowly Skull artwork. The iconic curved brim is adorned with studs, and complete with an Ed Hardy logo. Constructed from a blend of cotton and poly.",
       "tags": [
         "graphic",
@@ -10011,7 +10014,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/skeles-leather-snapback",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This adjustable faux leather snapback hat features an embroidered Ed Hardy logo over two archival skele graphics. The iconic curved brim is adorned with studs, and is complete with denim lining underneath. Constructed from a blend of cotton and poly.",
       "tags": [
         "denim",
@@ -10042,7 +10045,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/panther-low-profile-hat-sunfade-blk",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This adjustable low profile hat features an embroidered panther head graphic over black flames, and a gold “Love Kills Slowly” along the side. Complete with a signature Ed Hardy logo embroidered over a flat brim. Constructed from a blend of cotton and poly in a sunfade black.",
       "tags": [
         "dark",
@@ -10072,7 +10075,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/mary-trucker-hat",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This throwback Ed Hardy trucker features a pink mesh snap back and a silver Mary graphic embroidered over pink rose artwork. Complete with an embroidered Ed Hardo logo on a stud-adorned curved brim. Constructed from a blend of cotton and poly.",
       "tags": [
         "mesh",
@@ -10103,7 +10106,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/lsk-skull-rose-trucker-hat",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This throwback Ed Hardy trucker features an embroidered LKS skull graphic and a signature gold Ed Hardy logo. Complete with a mesh snap back and curved brim. Constructed from a blend of cotton and poly in the shade grape.",
       "tags": [
         "mesh",
@@ -10133,7 +10136,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/panther-flame-trucker-hat-dusty-rose",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This throwback Ed Hardy trucker features a flame Ed Hardy logo layered over archival Panther Flame artwork. Adorned with rhinestones, and complete with a mesh snap back and curved brim. Constructed from a blend of cotton and poly in the shade dusty rose.",
       "tags": [
         "mesh",
@@ -10164,7 +10167,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/firelord-trucker-hat",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This throwback Ed Hardy trucker features an embroidered Firelord graphic and rhinestone embellishments. Complete with a mesh snap back and curved brim. Constructed from a blend of cotton and poly in the shade red.",
       "tags": [
         "mesh",
@@ -10196,7 +10199,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/lks-santa-skull-ls-scalloped-edge-pointelle-shorts-deep-red",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "These 2026 Holiday exclusive shorts are crafted from a super-soft cotton blend in red, featuring festive Ed Hardy graphics and logos throughout.",
       "tags": [
         "graphic"
@@ -10225,7 +10228,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/lks-santa-skull-ls-scalloped-edge-pointelle-crop-deep-red",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This 2026 Holiday exclusive top is crafted from a super-soft cotton blend in red, featuring festive Ed Hardy graphics and logos throughout.",
       "tags": [
         "graphic"
@@ -10254,7 +10257,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/lks-santa-skull-ls-ruching-romper-heather-grey",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This 2026 Holiday exclusive romper is cut from a super-soft cotton blend and complete with festive Ed Hardy graphics and logos.",
       "tags": [
         "graphic"
@@ -10283,7 +10286,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/christmas-tiger-pants-black-black",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "These 2026 Holiday exclusive pants feature festive tiger artwork throughout. Constructed from a super soft modal blend in black, complete with mini tigers in Santa hats and the classic Ed Hardy logo across the back.",
       "tags": [
         "dark",
@@ -10314,7 +10317,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/christmas-tiger-pants-white-white",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "These 2026 Holiday exclusive pants feature festive tiger artwork throughout. Constructed from a super soft modal blend in white, complete with mini tigers in Santa hats and the classic Ed Hardy logo across the back.",
       "tags": [
         "graphic"
@@ -10344,7 +10347,7 @@
       ],
       "sourceUrl": "https://edhardyoriginals.com/products/lks-skull-rose-zip-hoodie",
       "sourceLabel": "Ed Hardy · official store",
-      "observedAt": "2026-11-26T18:27:49.842959+00:00",
+      "observedAt": "2026-11-27T18:14:47.850083+00:00",
       "sourceFacts": "This cropped hoodie is cut from a soft cotton-poly blend in the shade green. Features layers of archival Skull Rose and Love Kills Slowly artwork. Complete with Ed Hardy logos.",
       "tags": [
         "graphic",
