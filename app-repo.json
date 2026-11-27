@@ -71,6 +71,15 @@
       "appPermissions": {},
       "versions": [
         {
+          "version": "0.0.15",
+          "buildVersion": "15",
+          "date": "2026-11-27T06:30:00Z",
+          "size": 86131115,
+          "minOSVersion": "15.0",
+          "localizedDescription": "Build v015. The phone shows it as version 0.0.15 (15). It installs over v014.\n\nNew\n- A K.O. now gets a held finish, then a victory screen.\n- Special name banner when a Special starts, a TAG! flash on tag-in, and a combo total (hits and damage).\n- Washington plays his locked v007 kit.\n\nChanged\n- Damage is paced so fights last: Specials no longer take most of a bar.\n- Specials are shorter, closer and easier to read.\n- The camera frames both fighters' full bodies at mid range.\n- Heavy and kick step in at close range; taps pressed during recovery come out on the first free frame.\n- Grabs track a moving target.\n- CPU checked and tuned.\n\nKnown issues: Not tested on a phone yet.",
+          "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.15-b15/EBH-cac7ab8-unsigned.ipa"
+        },
+        {
           "version": "0.0.14",
           "buildVersion": "14",
           "date": "2026-11-27T02:05:00Z",
@@ -132,21 +141,12 @@
           "minOSVersion": "15.0",
           "localizedDescription": "New\n- Pick your team before a match, and pick who you play in Training.\n- Switch arenas from the arena picker.\n- Luther fights with his own model, hammer and Door Service Special.\n- Rate each match and flag a moment with a note; full matches are recorded for review.\n\nChanged\n- Team select moves on by itself once your team is set.\n- A tagged-in fighter runs in along the floor.\n- Input buffering and defence against Specials are reworked.\n- The Flag button sits in the top-right corner.\n\nFixed\n- The K.O. hand-off to the next fighter no longer pops.\n- A black-screen bug from an earlier test build.\n\nKnown issues: This build has not been checked on a phone yet.",
           "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.23-b23/EBH-de8b252-unsigned.ipa"
-        },
-        {
-          "version": "0.0.15",
-          "buildVersion": "15",
-          "date": "2026-11-22T09:03:24Z",
-          "size": 83140949,
-          "minOSVersion": "15.0",
-          "localizedDescription": "New\n- Overload Grip has a visible overhand windup.\n\nChanged\n- Light hits, heavy hits and blocks use smaller contact effects.\n- The knockout burst is smaller and the K.O.! banner sits above the fighters.\n\nFixed\n- The orange grab warning clears when the windup ends or a Special interrupts it.\n- Portrait Special shots leave more room for fighters to recoil.\n\nKnown issues: An ordinary throw can still crop a fighter during recovery.",
-          "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.15-b15/EBH-e9373b7-unsigned.ipa"
         }
       ],
-      "version": "0.0.14",
-      "versionDate": "2026-11-27T02:05:00Z",
-      "size": 86101775,
-      "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.14-b14/EBH-9f315f3-unsigned.ipa"
+      "version": "0.0.15",
+      "versionDate": "2026-11-27T06:30:00Z",
+      "size": 86131115,
+      "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.15-b15/EBH-cac7ab8-unsigned.ipa"
     },
     {
       "name": "Sample Size",
