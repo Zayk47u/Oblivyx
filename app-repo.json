@@ -71,6 +71,15 @@
       "appPermissions": {},
       "versions": [
         {
+          "version": "0.0.16",
+          "buildVersion": "16",
+          "date": "2026-11-27T11:30:00Z",
+          "size": 86195493,
+          "minOSVersion": "15.0",
+          "localizedDescription": "Build v016. The phone shows it as version 0.0.16 (16). It installs over v015.\n\nNew\n- Hayes, Pilate and Goody play their full locked v007 kits (Washington's already in).\n- Training v2: dummy actions and a damage readout.\n- Recording hands over between parts and shows its upload status.\n- The build number shows the commit it came from.\n\nFixed\n- Washington's Golden Gun works in Training too.\n- Tagging out clears Dazzle; Steam Vent respects Ward and Rewind.\n- Recording keeps working after an app update.\n\nKnown issues: New kits use placeholder animations. Not tested on a phone yet.",
+          "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.16-b16/EBH-be1ebf6-unsigned.ipa"
+        },
+        {
           "version": "0.0.15",
           "buildVersion": "15",
           "date": "2026-11-27T06:30:00Z",
@@ -143,10 +152,10 @@
           "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.23-b23/EBH-de8b252-unsigned.ipa"
         }
       ],
-      "version": "0.0.15",
-      "versionDate": "2026-11-27T06:30:00Z",
-      "size": 86131115,
-      "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.15-b15/EBH-cac7ab8-unsigned.ipa"
+      "version": "0.0.16",
+      "versionDate": "2026-11-27T11:30:00Z",
+      "size": 86195493,
+      "downloadURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.16-b16/EBH-be1ebf6-unsigned.ipa"
     },
     {
       "name": "Sample Size",
