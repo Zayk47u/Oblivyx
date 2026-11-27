@@ -18,7 +18,7 @@
       "minOSVersion": "15.0",
       "sha256": "379b1ff813a7f88a3e7e2b6fe0816ef85017aa934ffe83d990b99c07bc7ed76f",
       "fileName": "EBH-cac7ab8-unsigned.ipa",
-      "sourceURL": "https://nomac.app/api/v1/mac/links/weXXnXqwid0G8AS70p7wSn660vTHhm8a/file",
+      "sourceURL": "https://github.com/Zayk47u/Oblivyx/releases/download/epic-battles-of-history-v0.0.15-b15/EBH-cac7ab8-unsigned.ipa",
       "localizedDescription": "Build v015. The phone shows it as version 0.0.15 (15). It installs over v014.\n\nNew\n- A K.O. now gets a held finish, then a victory screen.\n- Special name banner when a Special starts, a TAG! flash on tag-in, and a combo total (hits and damage).\n- Washington plays his locked v007 kit.\n\nChanged\n- Damage is paced so fights last: Specials no longer take most of a bar.\n- Specials are shorter, closer and easier to read.\n- The camera frames both fighters' full bodies at mid range.\n- Heavy and kick step in at close range; taps pressed during recovery come out on the first free frame.\n- Grabs track a moving target.\n- CPU checked and tuned.\n\nKnown issues: Not tested on a phone yet.",
       "sourceCommit": "cac7ab8282e1b5a294ac0dc1258ce53ccb89e1bf"
     },
